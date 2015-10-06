@@ -7,11 +7,11 @@
 | **11/3/2015**  | Linear Regression | 
 | 11/5/2015 | Data Visualization and EDA | *dataexplor02*
 | **11/10/2015**  | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
-| 11/12/2015| **Columbus Day (Holiday/ No class)** | |
-| **11/17/2015** | Model Selection & Regularization | Final submission of **Africa Soil Property Prediction Challenge**
-| 11/19/2015| Logistic Regression | *dataexplor04*
+| 11/12/2015 | Model Selection & Regularization | Final submission of **Africa Soil Property Prediction Challenge**
+| **11/17/2015** | Logistic Regression | *dataexplor04*
+| 11/19/2015 | Non-linear Classification | First Submission of **Forest Cover Type Prediction Challenge**
 |**11/23/2015 (Monday!)** | Non-linear Classification | First Submission of **Forest Cover Type Prediction Challenge**
-| 11/26/2014 | **(Holiday/ No class)** |
+| 11/26/2015  | **(Holiday/ No class)** |
 | **12/1/2015** | Probablility and Bayes Theorem | *dataexplor05*
 | 12/3/2015 | Bayesian Classifiers, Discriminant Analysis | 
 | **11/3/2014**  | Time Series Analysis | *dataexplor06*
