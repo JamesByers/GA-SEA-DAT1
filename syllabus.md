@@ -1,9 +1,9 @@
 ## Tentative Syllabus
 
 | Date      | Topic | Assignment Due 
-|:-----------|:------|:------|:------
-| **2015-10-27** | Intro to Intro to Data Science | Submit first pull request (lab01)
-| 2015-10-30 | Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
+|:----------|:------|:------|:------
+| **10/27/2015** | Intro to Intro to Data Science | Submit first pull request (lab01)
+| 10-30-2015 | Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
 | 10/1/2014  | Linear Regression | 
 | **10/6/2014** | Data Visualization and EDA | *dataexplor02*
 | 10/8/2014  | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
