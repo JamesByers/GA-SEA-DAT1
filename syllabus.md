@@ -20,7 +20,7 @@
 | 12/17/2015 | Natural Language Processing | *dataexplor08*
 | **12/22/2015** | Bayes Networks |
 | 12/24/2015 | **(Holiday/ No class)** |
-| **12/29/2015 | **(Holiday/ No class)** |
+| **12/29/2015** | **(Holiday/ No class)** |
 | 12/31/2015 | **(Holiday/ No class)** |
 | **1/05/2015** | Decision Trees and Ensemble Methods | *dataexplor09*
 | 1/7/2014 | Data Engineering: Distributed Computing | *dataexplor10*
