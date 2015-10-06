@@ -3,16 +3,17 @@
 | Date      | Topic | Assignment Due 
 |:----------|:------|:------|:------
 | **10/27/2015** | Intro to Intro to Data Science | Submit first pull request (lab01)
-| 10-30-2015 | Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
-| 10/1/2014  | Linear Regression | 
-| **10/6/2014** | Data Visualization and EDA | *dataexplor02*
-| 10/8/2014  | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
-| **10/13/2014**| **Columbus Day (Holiday/ No class)** | |
-| 10/15/2014 | Model Selection & Regularization | Final submission of **Africa Soil Property Prediction Challenge**
-| **10/20/2014**| Logistic Regression | *dataexplor04*
-| 10/22/2014 | Non-linear Classification | First Submission of **Forest Cover Type Prediction Challenge**
-| **10/27/2014** | Probablility and Bayes Theorem | *dataexplor05*
-| 10/29/2014 | Bayesian Classifiers, Discriminant Analysis | 
+| 10/29/2015 | Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
+| **11/3/2015**  | Linear Regression | 
+| 11/5/2015 | Data Visualization and EDA | *dataexplor02*
+| **11/10/2015**  | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
+| 11/12/2015| **Columbus Day (Holiday/ No class)** | |
+| **11/17/2015** | Model Selection & Regularization | Final submission of **Africa Soil Property Prediction Challenge**
+| 11/19/2015| Logistic Regression | *dataexplor04*
+|**11/23/2015 (Monday!)** | Non-linear Classification | First Submission of **Forest Cover Type Prediction Challenge**
+| 11/26/2014 | **(Holiday/ No class)** |
+| **12/1/2015** | Probablility and Bayes Theorem | *dataexplor05*
+| 12/3/2015 | Bayesian Classifiers, Discriminant Analysis | 
 | **11/3/2014**  | Time Series Analysis | *dataexplor06*
 | 11/5/2014 | kNN | 
 | **11/10/2014** | k-means Clustering | *dataexplor07*
