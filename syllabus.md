@@ -14,16 +14,18 @@
 | 11/26/2015  | **(Holiday/ No class)** |
 | **12/1/2015** | Probablility and Bayes Theorem | *dataexplor05*
 | 12/3/2015 | Bayesian Classifiers, Discriminant Analysis | 
-| **11/3/2014**  | Time Series Analysis | *dataexplor06*
-| 11/5/2014 | kNN | 
-| **11/10/2014** | k-means Clustering | *dataexplor07*
-| 11/12/2014 | Review | 
-| **11/17/2014** | Natural Language Processing | *dataexplor08*
-| 11/19/2014 | Bayes Networks | 
-| **11/24/2014** | Decision Trees and Ensemble Methods | *dataexplor09*
-| 11/26/2014 | **(Holiday/ No class)** |
-| **12/1/2014** | Data Engineering: Distributed Computing | *dataexplor10*
-| 12/3/2014  | TBA | 
-| **12/8/2014**  | Review | *dataexplor11*
-| 12/10/2014  | Presentation Workshop | Presentation Slides/Outline
-| **12/15/2014** | Final Presentations | Final Project Due
+| **12/8/2015**  | Time Series Analysis | *dataexplor06*
+| 12/10/2014 | kNN | 
+| **12/15/2014** | k-means Clustering | *dataexplor07*
+| 11/17/2014 | Review | 
+| **12/20/2014** | Natural Language Processing | *dataexplor08*
+| 12/22/2015| Bayes Networks |
+| **12/29/2015 | **(Holiday/ No class)** |
+| **12/29/2015 | **(Holiday/ No class)** |
+| 12/31/2015 | **(Holiday/ No class)** |
+| **1/05/2015** | Decision Trees and Ensemble Methods | *dataexplor09*
+| 1/7/2014 | Data Engineering: Distributed Computing | *dataexplor10*
+| **1/12/2014**  | TBA | 
+| 1/14/2016  | Review | *dataexplor11*
+| **1/19/2016**  | Presentation Workshop | Presentation Slides/Outline
+| 1/21/2016 | Final Presentations | Final Project Due
