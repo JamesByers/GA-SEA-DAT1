@@ -10,7 +10,6 @@ type: material
 This document helps you get up to speed with three tool families:
 
  * Command Line Interface (CLI) tools, organized around the `bash` shell and `git` for version control.
- * The `R` statistical programming environment.
  * The `python` programming language.
 
 For each, you can go as deep as you need to feel comfortable:
