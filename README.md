@@ -47,9 +47,12 @@ Tuesday | Thursday
 * [Beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) workshop code: Useful for review and reference.
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
+<!--
 ### Submission Forms
 ** !! add Feedback form link !!
+
 ** !! add Homework and project submissions link !!
+-->
 <!--
 ### Before the Course Begins
 * Install [Git](http://git-scm.com/downloads).
@@ -76,8 +79,9 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 ### Submission Forms
-* [Feedback form](http://bit.ly/dat8feedback)
-* [Homework and project submissions](http://bit.ly/dat8homework)
+** !! add Feedback form link !! **
+** !! add Homework and project submissions link !! **
+
 
 ### [Comparison of machine learning models](other/model_comparison.md)
 
