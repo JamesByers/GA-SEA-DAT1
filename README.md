@@ -84,10 +84,13 @@ Tuesday | Thursday
 * add Feedback form link
 * add Homework and project submissions link
 
-
+<!--
 ### [Comparison of machine learning models](other/model_comparison.md)
+-->
 
+<!--
 ### [Comparison of model evaluation procedures and metrics](other/model_evaluation_comparison.md)
+-->
 
 -----
 
