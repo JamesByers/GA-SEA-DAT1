@@ -1,4 +1,6 @@
-[General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA (10/27/15 - 1/21/15).
+### GA_DS_Seattle_2h15
+
+Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA (10/27/15 - 1/21/15).
 
 **Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
 
@@ -79,8 +81,8 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 ### Submission Forms
-** !! add Feedback form link !! **
-** !! add Homework and project submissions link !! **
+* add Feedback form link !!
+* add Homework and project submissions link *
 
 
 ### [Comparison of machine learning models](other/model_comparison.md)
