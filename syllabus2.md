@@ -16,6 +16,7 @@ Tuesday | Thursday
 12/22: TBD, **Draft Paper Due** | 12/24: (Holiday/ No class)
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 
+Tuesday | Thursday
 --- | ---
 1/5: Decision Trees | 1/7: Ensembling
 1/12: Regularization and<br>Clustering, **Peer Review Due** | 1/14: Course Review and Bonus Topics
