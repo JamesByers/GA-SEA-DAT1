@@ -24,7 +24,6 @@ Tuesday | Thursday
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
 
 
-<!--
 ### Before the Course Begins
 * Install [Git](http://git-scm.com/downloads).
 * Create an account on the [GitHub](https://github.com/) website.
@@ -36,7 +35,6 @@ Tuesday | Thursday
     * Alternatively, you can walk through the [setup checklist](other/setup_checklist.md) yourself.
 * Once you receive an email invitation from Slack, join our "DS_Seattle_2h15_team" and add your photo.
 * Practice Python using the resources below.
--->
 
 ### Python Resources
 * [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
