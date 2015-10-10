@@ -99,7 +99,7 @@ Tuesday | Thursday
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
 * Discuss the course project: [requirements](project/README.md) and [example projects](https://github.com/justmarkham/DAT-project-examples)
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
-* Welcome from General Assembly staff
+* Welcome from General Assembly folk
 
 **Homework:**
 * Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows).
