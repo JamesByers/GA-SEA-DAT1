@@ -79,7 +79,7 @@ Tuesday | Thursday
 -->
 
 ### Submission Forms
-* **add Feedback form link*
+* **add Feedback form link**
 * **add Homework and project submissions link**
 
 <!--
