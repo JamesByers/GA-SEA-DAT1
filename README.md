@@ -66,7 +66,7 @@ Tuesday | Thursday
 * Once you receive an email invitation from Slack, join our "DS_Seattle_2h15_team" and add your photo.
 * Practice Python using the resources below.
 -->
-
+<!--
 ### Python Resources
 * [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
 * [DataQuest](https://www.dataquest.io/courses): Uses interactive exercises to teach Python in the context of data science.
@@ -77,6 +77,7 @@ Tuesday | Thursday
 * [Python Quick Reference Guide](https://github.com/JamesByers/GA-DS-Instructor/blob/master/other/python_reference): Kevin Markham's beginner-oriented guide that demonstrates Python concepts through short, well-commented examples.
 * [Beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) workshop code: Useful for review and reference.
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
+-->
 
 ### Submission Forms
 * add Feedback form link
