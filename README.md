@@ -51,9 +51,9 @@ Tuesday | Thursday
 
 <!--
 ### Submission Forms
-** !! add Feedback form link !!
+** add Feedback form link **
 
-** !! add Homework and project submissions link !!
+** add Homework and project submissions link **
 -->
 <!--
 ### Before the Course Begins
@@ -81,13 +81,16 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 ### Submission Forms
-* add Feedback form link !!
-* add Homework and project submissions link *
+* add Feedback form link
+* add Homework and project submissions link
 
-
+<!--
 ### [Comparison of machine learning models](other/model_comparison.md)
+-->
 
+<!--
 ### [Comparison of model evaluation procedures and metrics](other/model_evaluation_comparison.md)
+-->
 
 -----
 
