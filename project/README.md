@@ -2,23 +2,23 @@
 
 ## Due Dates and Links
 
-* **September 1:** Discuss project ideas with instructional team
+* **November 10:** Discuss project ideas with instructional team
     * [Past student projects](https://github.com/justmarkham/DAT-project-examples)
     * [Public data sources](public_data.md)
     * Data science competitions: [Kaggle](http://www.kaggle.com/), [DrivenData](http://www.drivendata.org/competitions/), [CrowdANALYTIX](https://www.crowdanalytix.com/community), [TunedIT](http://tunedit.org/challenges), [InnoCentive](https://www.innocentive.com/ar/challenge/browse)
-* **September 3:** Project question and dataset
+* **November 12:** Project question and dataset
     * [Project question](https://github.com/justmarkham/DAT4-students/blob/master/jason/jk_project_idea.md) by Jason Knobloch
     * [Project question](https://github.com/justmarkham/DAT4-students/blob/master/jennifer/project_description.md) by Jennifer Lambert
     * [Project question](https://github.com/ckf2102/DAT7-Coursework/blob/master/Project/Archive/ProjectQuestion.md) by Corinne Fukayama
     * [Project question](https://github.com/wandergram/datsci/blob/master/UN/question.md) by Alex Kapitanskaya
-* **September 22:** First project presentation
+* **December 3:** First project presentation
     * [First presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/army_draft_presentation.pdf) by Chandler McCann
     * [First presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/media_draft_presentation.pdf) by Nathan Danielsen
     * [First presentation](https://github.com/ckf2102/DAT7-Coursework/blob/master/Project/Archive/20150713-Presentation.pdf) by Corinne Fukayama
-* **October 8:** Draft paper
-* **October 20:** Peer review
+* **December 22:** Draft paper
+* **January 12:** Peer review
     * [Peer review guidelines](peer_review.md)
-* **October 27/29:** Final project presentation and paper
+* **January 19/21:** Final project presentation and paper
     * [Final presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/bus_presentation.pdf) by Austin Brown
     * [Final presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/crime_presentation.pdf) by Debbie Yu
     * [Final presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/dota_presentation.pdf) and [final paper](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/dota_paper.pdf) by Kyle Pomerleau
