@@ -105,19 +105,27 @@ Given that: letters = ['a', 'b', 'c']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
 
+# [your code here]
+
+
 '''
 EXERCISE 2 (BONUS):
 Given that: word = 'abc'
 Write a list comprehension that returns: ['A', 'B', 'C']
-# [your code here]
 '''
+
+# [your code here]
+
 
 '''
 EXERCISE 3 (BONUS):
 Given that: fruits = ['Apple', 'Banana', 'Cherry']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
+
 # [your code here]
+
+
 
 '''
 DICTIONARIES
