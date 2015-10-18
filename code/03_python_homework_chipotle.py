@@ -10,7 +10,7 @@ Hint: This is a TSV file, and csv.reader() needs to be told how to handle it.
       https://docs.python.org/2/library/csv.html
 '''
 
-[your code here]
+#[your code here]
 
 
 '''
@@ -18,7 +18,7 @@ BASIC LEVEL
 PART 2: Separate 'file_nested_list' into the 'header' and the 'data'.
 '''
 
-[your code here]
+#[your code here]
 
 '''
 INTERMEDIATE LEVEL
@@ -27,7 +27,7 @@ Hint: Examine the data to see if the 'quantity' column is relevant to this calcu
 Hint: Think carefully about the simplest way to do this!  Break the problem into steps and then code each step
 '''
 
-[your code here]
+#[your code here]
 
 
 '''
@@ -35,7 +35,7 @@ INTERMEDIATE LEVEL
 PART 4: Create a list (or set) of all unique sodas and soft drinks that they sell.
 Note: Just look for 'Canned Soda' and 'Canned Soft Drink', and ignore other drinks like 'Izze'.
 '''
-[your code here]
+#[your code here]
 
 '''
 ADVANCED LEVEL
@@ -44,7 +44,7 @@ Note: Let's ignore the 'quantity' column to simplify this task.
 Hint: Think carefully about the easiest way to count the number of toppings!
 '''
 
-[your code here]
+#[your code here]
 
 
 '''
@@ -56,11 +56,11 @@ Note: Please take the 'quantity' column into account!
 Optional: Learn how to use 'defaultdict' to simplify your code.
 '''
 
-[your code here]
+#[your code here]
 
 
 '''
 BONUS: Think of a question about this data that interests you, and then answer it!
 '''
 
-[your code here]
+#[your code here]
