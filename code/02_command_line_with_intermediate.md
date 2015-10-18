@@ -1,4 +1,4 @@
-## Introduction to the Command Line
+## Introduction to the Command Line - with intermediate and advanced commands
 
 This document outlines basic usage of the command line. For Linux and Mac users, these commands should work in **Terminal**. For Windows users, these should work in **Git Bash**.
 
