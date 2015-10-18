@@ -95,7 +95,7 @@ Tuesday | Thursday
 ### Class 1: Introduction to Data Science
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
-* Discuss the course project: [requirements](project/project_examples/README.md) and [example projects](project/project_examples/pdf)
+* Discuss the course project: [requirements](project/README.md) and [example projects](project/project_examples/pdf)
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
 * Welcome from General Assembly folk
 
