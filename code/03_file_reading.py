@@ -46,34 +46,36 @@ EXERCISES:
 1. Create a list containing the average number of incidents per year for each airline.
 Example for Aer Lingus: (2 + 0)/30 = 0.07
 Expected output: [0.07, 2.73, 0.23, ...]
+'''
 
+# Your code goes here
+
+
+'''
 2. Create a list of airline names (without the star).
 Expected output: ['Aer Lingus', 'Aeroflot', 'Aerolineas Argentinas', ...]
+'''
 
+# Your code goes here
+
+
+'''
 3. Create a list (of the same length) that contains 1 if there's a star and 0 if not.
 Expected output: [0, 1, 0, ...]
+'''
 
+# Your code goes here
+
+
+'''
 4. BONUS: Create a dictionary in which the key is the airline name (without the star)
    and the value is the average number of incidents.
 Expected output: {'Aer Lingus': 0.07, 'Aeroflot': 2.73, ...}
 '''
 
-# Part 1
-incidents = [round((int(row[2]) + int(row[5])) / float(30), 2) for row in data]
+# Your code goes here
 
-# Parts 2 and 3
-airlines = []
-starred = []
-for row in data:
-    if row[0][-1] == '*':
-        starred.append(1)
-        airlines.append(row[0][:-1])
-    else:
-        starred.append(0)
-        airlines.append(row[0])
 
-# Part 4
-airline_incidents = dict(zip(airlines, incidents))
 
 '''
 A few extra things that will help you with the homework
