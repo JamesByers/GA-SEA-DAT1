@@ -69,14 +69,10 @@ EXERCISE:
 Bonus: Sort the list by the length of the names (shortest to longest).
 '''
 
-names = ['Wesley', 'Larry', 'Wan']  # list of names
-names[-1]                           # last element
-len(names[0])                       # length of first string
-names[0] = 'Wes'                    # overwrite existing element
-names.append('Gabriel')             # append new element
-names[-1] = names[-1].lower()       # change last string to be lowercase
-sorted(names, reverse=True)         # sort the list in reverse order
-sorted(names, key=len)              # sort the list by length
+
+#[your code here]
+
+
 
 
 '''
@@ -107,25 +103,21 @@ doubled = [num*2 for num in nums]   # expression (num*2) goes first, brackets
 EXERCISE 1:
 Given that: letters = ['a', 'b', 'c']
 Write a list comprehension that returns: ['A', 'B', 'C']
+'''
 
+'''
 EXERCISE 2 (BONUS):
 Given that: word = 'abc'
 Write a list comprehension that returns: ['A', 'B', 'C']
+# [your code here]
+'''
 
+'''
 EXERCISE 3 (BONUS):
 Given that: fruits = ['Apple', 'Banana', 'Cherry']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
-
-letters = ['a', 'b', 'c']
-[letter.upper() for letter in letters]  # iterate through a list of strings,
-                                        # and each string has an 'upper' method
-word = 'abc'
-[letter.upper() for letter in word]     # iterate through each character
-
-fruits = ['Apple', 'Banana', 'Cherry']
-[fruit[0] for fruit in fruits]          # slice the first character from each string
-
+# [your code here]
 
 '''
 DICTIONARIES
@@ -177,17 +169,17 @@ EXERCISE:
 Bonus: Do this last step using a list comprehension.
 '''
 
-family['mom']                       # returns 'Marge'
-family['size'] = 5                  # replaces existing value for 'size'
-family['kids'].append('Maggie')     # access a list, then append 'Maggie' to it
-family['kids'][0] = 'Bart'          # capitalize names by overwriting them
-family['kids'][1] = 'Lisa'
 
-# or, capitalize using a list comprehension and the 'capitalize' string method
-family['kids'] = [kid.capitalize() for kid in family['kids']]
+#1. [your code here]
 
-# or, slice the string, uppercase the first letter, and concatenate with other letters
-family['kids'] = [kid[0].upper() + kid[1:] for kid in family['kids']]
+#2. [your code here]
+
+#3. [your code here]
+
+#4. [your code here]
+
+# Bonus: [your code here]
+
 
 
 '''
