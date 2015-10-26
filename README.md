@@ -1,13 +1,14 @@
 ### GA_DS_Seattle_2h15
 
-Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA (10/27/15 - 1/21/15).
+Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
+(10/27/15 - 1/21/16).
 
 **Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
 
 
 Tuesday | Thursday
 --- | ---
-***2015*** | 
+**2015** | 
 | 10/27: L01 Introduction to Data Science | 10/29: L02 Command Line and Version Control
 11/3: L03 Data Reading and Cleaning | 11/5: L04 Exploratory Data Analysis
 11/10: L05 Visualization<br>**Project Discussion Deadline** | 11/12: L06 Machine Learning<br>**Project Question and Dataset Due**
@@ -93,11 +94,11 @@ Tuesday | Thursday
 -----
 
 ### Class 1: Introduction to Data Science
+* Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
 * Discuss the course project: [requirements](project/README.md) and [example projects](project/project_examples/pdf)
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
-* Welcome from General Assembly staff
 
 **Homework:**
 * Complete GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows).
