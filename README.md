@@ -34,7 +34,7 @@ Tuesday | Thursday
 * We would like to check the setup of your laptop before the course begins:
     * You can have your laptop checked prior to class on 10/27 from 5:00-5:45PM.
     * Alternatively, you can walk through the [setup checklist](other/setup_checklist.md) yourself.
-* Once you receive an email invitation from Slack, join our "DS_Seattle_2h15_team" and add your photo.
+* Once you receive an email invitation from Slack, join our "SEA-DAT1" Slack group and add your photo.
 * Practice Python using the resources below.
 
 ### Python Resources
