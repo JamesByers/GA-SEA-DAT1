@@ -1,5 +1,14 @@
 # DAT Course Project
 
+## Overview
+
+The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructor and classmates about them.
+
+Address a data-related problem in your professional field or a field you're passionate about. If you have a strong interest in the subject matter, you'll create a better project and it will be a lot more fun for you!
+
+Here's a collection of [past projects](/project/project_examples) from GA Data Science students that may help to stimulate your thinking. You're welcome to use [public data](public_data.md) or private data, though with private data, you'll have to be careful about what you release. Competing in a [Kaggle competition](http://www.kaggle.com/) (including past competitions) is also a project option, in which case the data will be provided for you.
+
+
 ## Due Dates and Links
 
 * **November 10:** Discuss project ideas with instructional team
@@ -25,13 +34,6 @@
     * [Final paper](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf) by Kerry Jones
     * [Final paper](https://github.com/mikeyea/DAT7_project/blob/master/final%20project/Class%20Project.ipynb) by Mike Yea
 
-## Overview
-
-The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructor and classmates about them.
-
-Address a data-related problem in your professional field or a field you're passionate about. If you have a strong interest in the subject matter, you'll create a better project and it will be a lot more fun for you!
-
-Here's a collection of [past projects](/project/project_examples) from GA Data Science students that may help to stimulate your thinking. You're welcome to use [public data](public_data.md) or private data, though with private data, you'll have to be careful about what you release. Competing in a [Kaggle competition](http://www.kaggle.com/) (including past competitions) is also a project option, in which case the data will be provided for you.
 
 ## Milestones
 
