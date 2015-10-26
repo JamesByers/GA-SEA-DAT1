@@ -122,7 +122,7 @@ Tuesday | Thursday
 
 **Homework:**
 * Complete the [command line homework assignment](homework/02_command_line_chipotle.md) with the Chipotle data.
-* Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time this weekend practicing Python:
+* Review the code from a [beginner](code/00_python_beginner_workshop.py) and an [intermediate](code/00_python_intermediate_workshop.py) Python workshop. If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time this weekend practicing Python:
     * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
     * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
     * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
