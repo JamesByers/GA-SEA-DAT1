@@ -17,4 +17,3 @@
 7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the DAT8 repo.
 8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
 
-#### Solution to be added ....
