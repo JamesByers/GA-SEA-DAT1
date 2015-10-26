@@ -116,7 +116,7 @@ Tuesday | Thursday
 
 ### Class 2: Command Line and Version Control
 * Slack tour
-* Review the command line pre-class exercise ([code](code/02_command_line.md))
+* Review the command line pre-class exercise ([code](code/02_command_line_basics.md))
 * Git and GitHub ([slides](slides/02_git_github.pdf))
 * Intermediate command line
 
