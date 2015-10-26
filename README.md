@@ -1,6 +1,7 @@
 ### GA_DS_Seattle_2h15
 
-Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA (between 2015-10-27 and 2015-01-21).
+Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
+(10/27/15 - 1/21/16).
 
 **Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
 
