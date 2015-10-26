@@ -50,7 +50,7 @@ Tuesday | Thursday
 
 ### Submission Forms
 * **[Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)**
-* **Feedback form link - To be added**
+* **Feedback form - Link to be added**
 
 <!--
 ### [Comparison of machine learning models](other/model_comparison.md)
