@@ -37,11 +37,11 @@ Here's a collection of [past projects](/project/project_examples) from GA Data S
 
 ## Milestones
 
-### September 1: Discuss your project ideas
+### November 10: Discuss your project ideas
 
-By September 1, you should talk with a member of the instructional team about your project idea(s). We can help you to choose between different ideas, advise you on the appropriate scope for your project, and ensure that your project question might reasonably be answerable using the data science tools and techniques taught in the course. (There is nothing you have to turn in for this milestone.)
+By November 10, you should talk with a member of the instructional team about your project idea(s). We can help you to choose between different ideas, advise you on the appropriate scope for your project, and ensure that your project question might reasonably be answerable using the data science tools and techniques taught in the course. (There is nothing you have to turn in for this milestone.)
 
-### September 3: Project question and dataset
+### November 12: Project question and dataset
 
 Create a GitHub repository for your project. It should include a **short write-up** that answers these questions:
 
@@ -57,7 +57,7 @@ Create a GitHub repository for your project. It should include a **short write-u
 * Reasonably available data: The question depends on data that is likely to be available in a "meaningful" quantity.
 * Reasonable hypothesis: The question examines factors (B) that might actually be predictive of the outcome (A).
 
-### September 22: First project presentation
+### December 3: First project presentation
 
 You'll be giving a short presentation to the class about the work you have done so far, as well as your plans for the project going forward. Your presentation should use slides (or a similar format). Your **slides, code, data, and visualizations** should be included in your GitHub repository. Here are some questions that you should address in your presentation:
 
@@ -82,7 +82,7 @@ You'll be giving a short presentation to the class about the work you have done 
 
 If it's not practical to include your entire dataset in your GitHub repository, you should link to your data source and provide a sample of the data. (GitHub has a [size limit](https://help.github.com/articles/what-is-my-disk-quota/) of 100 MB per file and 1 GB per repository.) If your data is private, you can either include an "anonymized" version of your data or create a private GitHub repository.
 
-### October 8: Draft paper due
+### December 22: Draft paper due
 
 A draft of your **project paper** is due, along with the **data, well-commented code, and visualizations**. It should be written with a technical audience in mind. Your paper should include the following components:
 
@@ -98,11 +98,11 @@ A draft of your **project paper** is due, along with the **data, well-commented 
 
 Your peers and instructional team will be providing feedback. However, the paper should stand "on its own", and should not depend upon the reader remembering your first presentation. The easier your paper is to follow, the more useful feedback you will receive! As well, if your reviewers can actually run your code on the provided data, they will be able to give you better feedback on your code.
 
-### October 20: Peer review due
+### January 12: Peer review due
 
 You will provide project feedback to two of your peers, according to the [peer review guidelines](peer_review.md).
 
-### October 27/29: Final project presentation (and final paper due)
+### October 19/21: Final project presentation (and final paper due)
 
 Your project repository on GitHub should contain the following:
 
