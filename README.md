@@ -80,7 +80,7 @@ Tuesday | Thursday
 -->
 
 ### Submission Forms
-* **Feedback form link - To be added **
+* **Feedback form link - To be added**
 * **Homework and project submissions link - To be added**
 
 <!--
