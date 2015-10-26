@@ -101,8 +101,7 @@ Tuesday | Thursday
 * Describe at least two of the elements of the Final project requirements
 * List at least 3 types of data
 
-
-
+**Topics/Highlights**
 * Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
