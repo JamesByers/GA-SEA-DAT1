@@ -80,7 +80,7 @@ Tuesday | Thursday
 -->
 
 ### Submission Forms
-* [Link to Feedback form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
+* **[Link to Feedback form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)**
 * **Homework and project submissions link - To be added**
 
 <!--
