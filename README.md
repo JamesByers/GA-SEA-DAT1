@@ -37,7 +37,7 @@ Tuesday | Thursday
 * Once you receive an email invitation from Slack, join our "SEA-DAT1" Slack group and add your photo.
 * Practice Python using the resources below.
 
-### Python Resources
+### Additional Python Resources
 * [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
 * [Google's Python Class](https://developers.google.com/edu/python/): Slightly more advanced, including hours of useful lecture videos and downloadable exercises (with solutions).
 * [Introduction to Python](http://introtopython.org/): A series of IPython notebooks that do a great job explaining core Python concepts and data structures.
