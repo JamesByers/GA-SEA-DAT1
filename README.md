@@ -94,6 +94,14 @@ Tuesday | Thursday
 -----
 
 ### Class 1: Introduction to Data Science
+
+**Learning Objectives**
+*List three expectations the instructor of students
+*Describe what data science is and what problems it can solve
+*Describe at least two of the elements of the Final project requirements
+
+
+
 * Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
