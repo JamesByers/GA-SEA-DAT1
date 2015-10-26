@@ -80,8 +80,8 @@ Tuesday | Thursday
 -->
 
 ### Submission Forms
-* **add Feedback form link**
-* **add Homework and project submissions link**
+* **Feedback form link - To be added **
+* **Homework and project submissions link - To be added**
 
 <!--
 ### [Comparison of machine learning models](other/model_comparison.md)
