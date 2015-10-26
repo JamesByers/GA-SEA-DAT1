@@ -1,4 +1,4 @@
-### GA-SEA-DAT1
+### SEA-DAT1
 
 Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
 (10/27/15 - 1/21/16).
