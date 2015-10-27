@@ -67,7 +67,7 @@ Tuesday | Thursday
 **By the end of this lesson you will be able to:**
 
 * Describe what data science is and the types of problems it can solve
-* List at least 3 types of data
+* Name at least three types of data
 * Describe at least two of the elements of the Final project requirements
 
 **Topics/Highlights**
