@@ -73,9 +73,9 @@ Tuesday | Thursday
 **Topics/Highlights**
 * Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_overview.pdf))
-* Data Science Inro ([slides](slides/01_data_science_intro.pdf))
-* Discuss the course project: [requirements](project/README.md) and [example projects](project/project_examples/pdf)
+* Data Science Intro ([slides](slides/01_data_science_intro.pdf))
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
+* Discuss the course project: [requirements](project/README.md) and [example projects](project/project_examples/pdf)
 
 **Homework:**
 * Complete GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows).
