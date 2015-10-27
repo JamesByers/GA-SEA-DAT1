@@ -64,7 +64,8 @@ Tuesday | Thursday
 
 ### Class 1: Introduction to Data Science
 
-**Learning Objectives**
+**By the end of this lesson you will be able to:**
+
 * Describe what data science is and the types of problems it can solve
 * List at least 3 types of data
 * Describe at least two of the elements of the Final project requirements
