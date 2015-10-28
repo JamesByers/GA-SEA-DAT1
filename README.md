@@ -26,6 +26,14 @@ Tuesday | Thursday
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
 
 
+
+## Submission Forms
+* **[Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)**
+* **[Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)**
+
+
+-----
+
 ### Before the Course Begins
 * Install [Git](http://git-scm.com/downloads).
 * Create an account on the [GitHub](https://github.com/) website.
@@ -49,9 +57,6 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 
-### Submission Forms
-* **[Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)**
-* **[Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)**
 
 
 <!--
