@@ -5,7 +5,7 @@ Materials for [General Assembly's Data Science course](https://generalassemb.ly/
 
 **Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
 
-**Classes:** 6:30PM-9:30PM
+**Classes:** 6:30pm-9:30pm
 
 Tuesday | Thursday
 --- | ---
