@@ -3,7 +3,7 @@
 This is a checklist to confirm that your laptop is set up properly for GA-SEA-DAT1. If at any point you get an error message, please note the error message and we will help you to fix it! If you don't get any error messages, you are properly set up.
 
 ### GitHub
-* Log into your GitHub account, and "star" the DAT8 repository (the one you are looking at right now) by clicking the Star button in the upper right corner of the screen.
+* Log into your GitHub account, and "star" (favorite) the GA-SEA-DAT1 repository (the one you are looking at right now) by clicking the Star button in the upper right corner of the screen.
 
 ### Git
 * Open a command line application:
