@@ -14,7 +14,7 @@ Tuesday | Thursday
 11/3: L03 Data Reading and Cleaning | 11/5: L04 Exploratory Data Analysis
 11/10: L05 Visualization<br>**Project Discussion Deadline** | 11/12: L06 Machine Learning<br>**Project Question and Dataset Due**
 11/17: L07 Getting Data | 11/19: L08 K-Nearest Neighbors
-11/23: **Monday!** L09 Basic Model Evaluation | 11/26 (Holiday/ No class) |
+11/24: L09 Basic Model Evaluation | 11/26 (Holiday/ No class) |
 12/1: L10 Linear Regression | 12/3:  L11 **First Project Presentation** 
 12/8: L12 Logistic Regression | 12/10: L13 Advanced Model Evaluation
 12/15: L14 Naive Bayes and Text Data | 12/17: L15  Language Processing
