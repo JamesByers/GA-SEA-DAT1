@@ -1,11 +1,11 @@
-### SEA-DAT1
+# SEA-DAT1 course repository
 
 Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
 (10/27/15 - 1/21/16)
 
 **Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
 
-**Classes:** 6:30PM-9:30PM
+**Classes:** 6:30pm-9:30pm
 
 Tuesday | Thursday
 --- | ---
@@ -24,7 +24,12 @@ Tuesday | Thursday
 1/5: L17 Decision Trees | 1/7: L18 Ensembling
 1/12: L19 Regularization and<br>Clustering, **Peer Review Due** | 1/22: L20 Course Review and Bonus Topics
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
-
+&nbsp;
+## Submission Forms
+### [      Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
+### [      Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
+ &nbsp;
+-----
 
 ### Before the Course Begins
 * Install [Git](http://git-scm.com/downloads).
@@ -49,9 +54,6 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 
-### Submission Forms
-* **[Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)**
-* **[Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)**
 
 
 <!--
