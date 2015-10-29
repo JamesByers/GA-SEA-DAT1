@@ -79,7 +79,7 @@ Tuesday | Thursday
 * Course overview ([slides](slides/01_course_overview.pdf))
 * Data Science Intro ([slides](slides/01_data_science_intro.pdf))
 * Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
-* Discuss the course project: [requirements](project/README.md) and [example projects](project/project_examples/pdf)
+* Discuss the course project: [requirements](project/README.md) and [example projects](/project/project_examples/README.md)
 
 **Homework:**
 * Complete GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows).
