@@ -95,6 +95,13 @@ Tuesday | Thursday
 -----
 
 ### Class 2: Command Line and Version Control
+
+**By the end of this lesson you will be able to:**
+* clone a Githib repository to your laptop
+* synch your local files with your GitHub repository using git add, commit, push and pull
+* Be able to use more advanced command line commands such as Grep and |
+
+**Topics/Highlights**
 * Slack tour
 * Review the command line pre-class exercise ([code](code/02_command_line_basics.md))
 * Git and GitHub ([slides](slides/02_git_github.pdf))
