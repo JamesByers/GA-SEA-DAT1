@@ -99,7 +99,7 @@ Tuesday | Thursday
 **By the end of this lesson you will be able to:**
 * clone a Githib repository to your laptop
 * synch your local files with your GitHub repository using git add, commit, push and pull
-* Be able to use more advanced command line commands such as Grep and |
+* use more advanced command line commands such as Grep and |
 
 **Topics/Highlights**
 * Slack tour
