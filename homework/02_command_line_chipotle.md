@@ -14,6 +14,6 @@
 4. Which burrito is more popular, steak or chicken?
 5. Do chicken burritos more often have black beans or pinto beans?
 6. Make a list of all of the CSV or TSV files in the GA-SEA-DAT1 repo (using a single command). You will be working on your local repo on your laptop.  Think about how wildcard characters can help you with this task.
-7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the DAT8 repo.
+7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the GA-SEA-DAT1 repo.
 8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
 
