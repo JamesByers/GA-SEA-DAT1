@@ -146,9 +146,9 @@ Tuesday | Thursday
 * Python:
     * Spyder interface
     * Looping exercise
-    * File reading with airline safety data, code-along  ([article](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/),[data](data/airlines.csv),[code](code/03_file_reading.py))
+    * File reading with airline safety data, code-along  ([article](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/), [data](data/airlines.csv), [code](code/03_file_reading.py))
     * Data preparation exercise
-    * Walkthrough of Python Chipotle homework assignment ([article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html), [data](data/chipotle.tsv),[code](homework/03_python_homework_chipotle.py))
+    * Walkthrough of Python Chipotle homework assignment ([article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html), [data](data/chipotle.tsv), [code](homework/03_python_homework_chipotle.py))
 
 **Homework:**
 * Complete the [Python homework assignment](homework/03_python_homework_chipotle.py) with the Chipotle data, add a commented Python script to your GitHub repo, and submit a link using the homework submission form. You have until Tuesday (9/1) to complete this assignment. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
