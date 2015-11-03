@@ -31,6 +31,7 @@ Tuesday | Thursday
  &nbsp;
 -----
 
+<!--
 ### Before the Course Begins
 * Install [Git](http://git-scm.com/downloads).
 * Create an account on the [GitHub](https://github.com/) website.
@@ -52,7 +53,7 @@ Tuesday | Thursday
 * [Python Quick Reference Guide](other/python_reference): Kevin Markham's beginner-oriented guide that demonstrates Python concepts through short, well-commented examples.
 * [Beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) workshop code: Useful for review and reference.
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
-
+-->
 
 
 
