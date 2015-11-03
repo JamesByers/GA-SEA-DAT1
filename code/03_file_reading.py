@@ -1,5 +1,5 @@
 '''
-Lesson on file reading using Airline Safety Data
+Code-along lesson on file reading using Airline Safety Data
 https://github.com/fivethirtyeight/data/tree/master/airline-safety
 '''
 
