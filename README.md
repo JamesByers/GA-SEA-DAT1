@@ -138,7 +138,7 @@ Tuesday | Thursday
 **By the end of this lesson you will be able to:**
  * Use Python to read text file data into a program
  * Use Python to separate the header from the data
- * Uee Python to convert the data into a nested list (list of lists)
+ * Use Python to convert the data into a nested list (list of lists)
 
 **Topics/Highlights**
 * Review command line homework ([solution](homework/02_command_line_chipotle.md))
