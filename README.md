@@ -170,7 +170,7 @@ Tuesday | Thursday
 
 **Homework:**
 * The deadline for discussing your project ideas with an instructor is Tuesday (11/10), and your project question write-up is due Thursday (11/12).
-* [Python Chipolte homework assignment](homework/03_python_homework_chipotle.py) is due next Tues before class (11/10). Add a commented Python script to your GitHub repo, and submit a link using the homework submission form. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
+* [Python Chipolte homework assignment](homework/03_python_homework_chipotle.py) is due next Tues before class (11/10). ([article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html), [data](data/chipotle.tsv), [code](homework/03_python_homework_chipotle.py)).  Add a commented Python script to your GitHub repo, and submit a link using the homework submission form. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
 * Read [How Software in Half of NYC Cabs Generates $5.2 Million a Year in Extra Tips](http://iquantny.tumblr.com/post/107245431809/how-software-in-half-of-nyc-cabs-generates-5-2) for an excellent example of exploratory data analysis.
 * Read [Anscombe's Quartet, and Why Summary Statistics Don't Tell the Whole Story](http://data.heapanalytics.com/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story/) for a classic example of why visualization is useful.
 
