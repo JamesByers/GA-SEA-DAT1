@@ -139,7 +139,7 @@ Tuesday | Thursday
     * Spyder interface
     * Looping exercise
     * Lesson on file reading with airline safety data ([code](code/03_file_reading.py), [data](data/airlines.csv), [article](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/))
-    * Data cleaning exercise
+    * Data preparation exercise
     * Walkthrough of Python homework with Chipotle data ([code](homework/03_python_homework_chipotle.py), [data](data/chipotle.tsv), [article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html))
 
 **Homework:**
