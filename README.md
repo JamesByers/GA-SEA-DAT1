@@ -11,7 +11,7 @@ Tuesday | Thursday
 --- | ---
 **2015** | 
 | 10/27: L01 Introduction to Data Science | 10/29: L02 Command Line and Version Control
-11/3: L03 Data Reading and Cleaning | 11/5: L04 Exploratory Data Analysis
+11/3: L03 Data Reading and preparing | 11/5: L04 Exploratory Data Analysis
 11/10: L05 Visualization<br>**Project Discussion Deadline** | 11/12: L06 Machine Learning<br>**Project Question and Dataset Due**
 11/17: L07 Getting Data | 11/19: L08 K-Nearest Neighbors
 11/24: L09 Basic Model Evaluation | 11/26 (Holiday/ No class) |
@@ -133,15 +133,22 @@ Tuesday | Thursday
 
 -----
 
-### Class 3: Data Reading and Cleaning
-* Git and GitHub assorted tips ([slides](slides/02_git_github.pdf))
+### Class 3: Data Reading and Preparing
+
+**By the end of this lesson you will be able to use Python to:**
+ * read text file data into a program
+ * separate the header from the data
+ * convert the data into a list
+
+**Topics/Highlights**
 * Review command line homework ([solution](homework/02_command_line_chipotle.md))
+* Git and GitHub assorted tips ([slides](slides/02_git_github.pdf))
 * Python:
     * Spyder interface
     * Looping exercise
-    * Lesson on file reading with airline safety data ([code](code/03_file_reading.py), [data](data/airlines.csv), [article](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/))
+    * File reading with airline safety data, code-along  ([code](code/03_file_reading.py), [data](data/airlines.csv), [article](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/))
     * Data preparation exercise
-    * Walkthrough of Python homework with Chipotle data ([code](homework/03_python_homework_chipotle.py), [data](data/chipotle.tsv), [article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html))
+    * Walkthrough of Python Chipotle homework assignment ([code](homework/03_python_homework_chipotle.py), [data](data/chipotle.tsv), [article](http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html))
 
 **Homework:**
 * Complete the [Python homework assignment](homework/03_python_homework_chipotle.py) with the Chipotle data, add a commented Python script to your GitHub repo, and submit a link using the homework submission form. You have until Tuesday (9/1) to complete this assignment. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
@@ -162,7 +169,7 @@ Tuesday | Thursday
 * Project question exercise
 
 **Homework:**
-* The deadline for discussing your project ideas with an instructor is Tuesday (9/1), and your project question write-up is due Thursday (9/3).
+* The deadline for discussing your project ideas with an instructor is Tuesday (11/10), and your project question write-up is due Thursday (11/12).
 * Read [How Software in Half of NYC Cabs Generates $5.2 Million a Year in Extra Tips](http://iquantny.tumblr.com/post/107245431809/how-software-in-half-of-nyc-cabs-generates-5-2) for an excellent example of exploratory data analysis.
 * Read [Anscombe's Quartet, and Why Summary Statistics Don't Tell the Whole Story](http://data.heapanalytics.com/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story/) for a classic example of why visualization is useful.
 
