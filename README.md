@@ -136,8 +136,8 @@ Tuesday | Thursday
 ### Class 3: Data Reading and Preparing
 
 **By the end of this lesson you will be able to:**
+ * State use case where you would chose a python dictionary over a list and one case where you would choose a list over a dictionary
  * Use Python to read text file data into a program
- * Use Python to separate the header from the data
  * Use Python to convert the data into a nested list (list of lists)
 
 **Topics/Highlights**
