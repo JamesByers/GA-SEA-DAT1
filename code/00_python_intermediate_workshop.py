@@ -81,8 +81,8 @@ FOR LOOPS AND LIST COMPREHENSIONS
 
 # for loop to print 1 through 5
 nums = range(1, 6)      # create a list of 1 through 5
-for num in nums:        # num 'becomes' each list element for one loop
-    print num
+for val in nums:        # num 'becomes' each list element for one loop
+    print val
 
 # for loop to print 1, 3, 5
 other = [1, 3, 5]       # create a different list
@@ -90,9 +90,11 @@ for x in other:         # name 'x' does not matter, not defined in advance
     print x             # this loop only executes 3 times (not 5)
 
 # for loop to create a list of 2, 4, 6, 8, 10
+nums = range(1, 6)
 doubled = []                # create empty list to store results
 for num in nums:            # loop through nums (will execute 5 times)
     doubled.append(num*2)   # append the double of the current value of num
+
 
 # equivalent list comprehension
 doubled = [num*2 for num in nums]   # expression (num*2) goes first, brackets
@@ -104,10 +106,13 @@ EXERCISE 1:
 Given that: letters = ['a', 'b', 'c']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
-
+letters = ['a', 'b', 'c']
+capitals = []
+for l in letters:
+    capitals.append(l.upper())
 # [your code here]
 
-
+capitals = [l.upper() for l in letters]
 '''
 EXERCISE 2 (BONUS):
 Given that: word = 'abc'
