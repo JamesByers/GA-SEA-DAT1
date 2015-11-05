@@ -1,4 +1,4 @@
-##Links to Panda command documentation
+##Links to Panda documentation
 
 [Index to manual pages] (http://pandas.pydata.org/pandas-docs/stable/genindex.html)
 
