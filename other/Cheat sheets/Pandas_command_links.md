@@ -2,7 +2,7 @@
 
 [Index to manual pages] (http://pandas.pydata.org/pandas-docs/stable/genindex.html)
 
-### Panda command manual pages
+#### Panda command manual pages
 [read_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_table.html#pandas.read_table)
 
 [DataFrame object class](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html)
