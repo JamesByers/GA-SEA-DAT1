@@ -9,7 +9,7 @@
 
 import pandas as pd
 
-file_path = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/'
+file_path = '<your file path>'
 movie_url = file_path + 'u.item'
 movie_cols = ['movie_id', 'title']
 movies = pd.read_table(movie_url, sep='|', header=None, names=movie_cols, usecols=[0, 1])
@@ -105,3 +105,44 @@ pd.merge(A, B, how='left')
 # Include all observations found in B:
 
 pd.merge(A, B, how='right')
+
+
+
+### Excercise 1: Seattle Pronto Cycle Share data merge
+"""
+Using the Pronto Cycle Share year one data for https://www.prontocycleshare.com/datachallenge
+We want to merge the dockcount values from 2015_station_data.csv into 2015_trip_data.csv.
+In particular we want the dockcount column from 2015_station_data.csv to be added to the rows in 2015_trip_data.csv.
+# to create a single dataframe called trip_and_station_data.
+"""
+
+## import pandas as pd
+
+# read in the data from '2015_trip_data.csv' file into a dataframe names 'file_path' and examine the contents.
+# name the file trip_data
+
+# Your code here
+
+
+# read in the data from just columns name and dockcount from 2015_trip_data.csv  file and examine the contents
+# name the file station_data
+
+# Your code here
+
+
+"""
+Merge trip_data with station_data, joining on trip_data 'station_name' and station_data 'name.
+Since we do not know if there is a 'name' in station_data that matches each station_name in trip_data do a left merge
+Name the resulting dataframe trip_and_dockcount_data.
+"""
+# Your code here
+
+
+# Remove the 'name' column
+
+# Your code here
+
+
+# Bonus: check to see if there are any rows that have no value in the dockcount columns.
+
+# Your code here
