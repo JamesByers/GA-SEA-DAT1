@@ -185,7 +185,7 @@ Tuesday | Thursday
 ### Class 5: Visualization
 * Python homework with the Chipotle data due
 * Part 2 of Exploratory Data Analysis with Pandas
- * Merging dataframes [code](code/05_pandas_merge_nb.py)
+ * Merging dataframes [(code)](code/05_pandas_merge_nb.py)
   * Exercise: merging Seattle Pronto Cycle Share Data Challenge tables
 * Visualization with Pandas and Matplotlib
 
