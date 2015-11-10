@@ -182,7 +182,7 @@ drinks.drop('liters', axis=1).plot(kind='box')
 
 ## Bonus: State a conclusion you can make about the distribution of rider ages for the rides?
 
-
+ 
 # <your statement and new code (if needed) go here>
 
 
