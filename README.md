@@ -187,11 +187,11 @@ Tuesday | Thursday
 * Part 2 of Exploratory Data Analysis with Pandas
  * Merging dataframes [(code)](code/05_pandas_merge_nb.py)
   * Exercise: merging Seattle Pronto Cycle Share Data Challenge tables
-* Visualization with Pandas and Matplotlib
+* Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
 
 **Homework:**
 * Your project question write-up is due on Thursday.
-* Complete the [Pandas homework assignment]. You have until Tuesday (11/17) to complete this assignment.
+* Complete the [Pandas homework assignment](code/05_pandas_homework_imdb.py) with the [IMDb data](data/imdb_1000.csv). You have until Tuesday (11/17) to complete this assignment.
 * If you're not using Anaconda, install the [Jupyter Notebook](http://jupyter.readthedocs.org/en/latest/install.html) (formerly known as the IPython Notebook) using `pip`. (The Jupyter or IPython Notebook is included with Anaconda.)
 
 **Pandas Resources:**
