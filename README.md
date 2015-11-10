@@ -223,7 +223,7 @@ Tuesday | Thursday
 
 **Homework:**
 * Complete the [Pandas homework assignment]. You have until Tuesday (11/17) to complete this assignment.
-* **Optional:** Complete the bonus exercise listed in the human learning notebook. It will take the place of any one homework you miss, past or future! This is due on Tues 11/17.
+* **Optional:** Complete the bonus exercise listed in the [human learning notebook](notebooks/06_human_learning_iris.ipynb). It will take the place of any one homework you miss, past or future! This is due on Tues 11/17.
 * If you're not using Anaconda, install [requests](http://www.python-requests.org/en/latest/user/install/) and [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup) using `pip`. (Both of these packages are included with Anaconda.)
 
 **Machine Learning Resources:**
