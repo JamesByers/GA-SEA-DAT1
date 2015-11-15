@@ -10,7 +10,7 @@ Materials for [General Assembly's Data Science course](https://generalassemb.ly/
 Tuesday | Thursday
 --- | ---
 **2015** | 
-| 10/27: [Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [Command Line, Version Control](#class-2-command-line-and-version-control)
+| 10/27: [L01 Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [Command Line, Version Control](#class-2-command-line-and-version-control)
 11/3: L03 Data Reading and preparing(#class-3-data-reading-and-preparing) | 11/5: L04 [Exploratory Data Analysis](#class-4-exploratory-data-analysis)
 11/10: L05 Visualization<br>**Project Discussion Deadline** | 11/12: L06 Machine Learning<br>**Project Question and Dataset Due**
 11/17: L07 Getting Data | 11/19: L08 K-Nearest Neighbors
