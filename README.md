@@ -254,6 +254,7 @@ Tuesday | Thursday
     * [Example web page](data/example.html)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
 
+
 **Homework:**
 * **Optional:** Complete the homework exercise listed in the [web scraping code](code/07_web_scraping.py). It will take the place of any one homework you miss, past or future! This is due on Tuesday (9/15).
 * **Optional:** If you're not using Anaconda, [install Seaborn](http://stanford.edu/~mwaskom/software/seaborn/installing.html) using `pip`. If you're using Anaconda, install Seaborn by running `conda install seaborn` at the command line. (Note that some students in past courses have had problems with Anaconda after installing Seaborn.)
