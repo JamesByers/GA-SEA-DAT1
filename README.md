@@ -11,8 +11,8 @@ Tuesday | Thursday
 --- | ---
 **2015** | 
 | 10/27: [L01 Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [Command Line, Version Control](#class-2-command-line-and-version-control)
-11/3: L03 Data Reading and preparing(#class-3-data-reading-and-preparing) | 11/5: L04 [Exploratory Data Analysis](#class-4-exploratory-data-analysis)
-11/10: L05 Visualization<br>**Project Discussion Deadline** | 11/12: L06 Machine Learning<br>**Project Question and Dataset Due**
+11/3: [L03 Data Reading and preparing](#class-3-data-reading-and-preparing) | 11/5: [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)
+11/10: [L05 Visualization](#class-5-visualization)**Project Discussion Deadline** | 11/12: [L06 Machine Learning](#class-6-machine-learning)**Project Question and Dataset Due**
 11/17: L07 Getting Data | 11/19: L08 K-Nearest Neighbors
 **Monday** 11/23: L09 Basic Model Evaluation | 11/26 (Holiday/ No class) |
 12/1: L10 Linear Regression | 12/3:  L11 **First Project Presentation** 
