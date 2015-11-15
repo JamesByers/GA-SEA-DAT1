@@ -264,7 +264,7 @@ plt.ylabel('Number of rides')
 # ## Grouped Box Plots: show one box plot for each group
 
 # reminder: box plot of beer servings
-drinks.beer.plot(kind='box')
+drinks.beer.plot(kind='box', column='beer')
 
 
 # box plot of beer servings grouped by continent
@@ -300,10 +300,11 @@ drinks.hist(column='beer', by='continent', sharex=True, layout=(2, 3))
 # ## Assorted Functionality
 
 # saving a plot to a file
+plt.rcParams['figure.figsize'] = (8, 6)
 drinks.beer.plot(kind='hist', bins=20, title='Histogram of Beer Servings')
 plt.xlabel('Beer Servings')
 plt.ylabel('Frequency')
-plt.savefig('beer_histogram.png')
+plt.savefig('beer_histogram.png', dpi=1000)
 
 
 # list available plot styles
@@ -312,6 +313,7 @@ plt.style.available
 
 # change to a different style
 plt.style.use('ggplot')
+plt.style.use('fivethirtyeight')
 
 ## Exercise 4 - Display a grouped box plot of the trip_and_dockcount_data ride durations by usertype
 
