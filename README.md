@@ -247,10 +247,10 @@ Tuesday | Thursday
 ### Class 7: Fetching Data
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
-* APIs
+* Fetching data through APIs
     * [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
     * ([code to access APIs on omdbapi.com](code/07_api.py))
-* Web scraping ([code](code/07_web_scraping.py))
+* Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [IMDb: robots.txt](http://www.imdb.com/robots.txt)
     * [Example web page](data/example.html)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
