@@ -13,7 +13,7 @@ Tuesday | Thursday
 | 10/27: [L01 Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [Command Line, Version Control](#class-2-command-line-and-version-control)
 11/3: [L03 Data Reading and preparing](#class-3-data-reading-and-preparing) | 11/5: [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)
 11/10: [L05 Visualization](#class-5-visualization)** Project Discussion Deadline** | 11/12: [L06 Machine Learning](#class-6-machine-learning)** Project Question and Dataset Due**
-11/17: [L07 Getting Data](#class-7-getting-data) | 11/19: [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)
+11/17: [L07 Fetching Data](#class-7-fetching-data) | 11/19: [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)
 **Monday** 11/23: [L09 Basic Model Evaluation](#class-9-basic-model-evaluation) | 11/26 (Holiday/ No class) |
 12/1: [Linear Regression](#class-10-linear-regression) | 12/3:  L11 **First Project Presentation** 
 12/8: L12 Logistic Regression | 12/10: L13 Advanced Model Evaluation
@@ -244,7 +244,7 @@ Tuesday | Thursday
 
 -----
 
-### Class 7: Getting Data
+### Class 7: Fetching Data
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * APIs ([code](code/07_api.py))
