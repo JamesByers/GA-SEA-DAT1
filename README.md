@@ -249,7 +249,7 @@ Tuesday | Thursday
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
     * [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
-    * ([code to access APIs on omdbapi.com](code/07_api.py))
+    * Access APIs on omdbapi.com[(code)](code/07_api.py))
 * Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [IMDb: robots.txt](http://www.imdb.com/robots.txt)
     * [Example web page](data/example.html)
