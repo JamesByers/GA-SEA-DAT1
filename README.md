@@ -249,7 +249,9 @@ Tuesday | Thursday
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
     * [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
-    * Access APIs on omdbapi.com[(code)](code/07_api.py))
+    * Code along - Access APIs on omdbapi.com[(code)](code/07_api.py))
+    * Excercise - accessing US Census language stats though APIs
+    * [Census.gov language statistics page with API descriptions](http://www.census.gov/data/developers/data-sets/language-stats.html)
 * Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [IMDb: robots.txt](http://www.imdb.com/robots.txt)
     * [Example web page](data/example.html)
