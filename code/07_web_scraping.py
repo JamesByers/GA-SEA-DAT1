@@ -23,7 +23,7 @@ How to view HTML code:
 - Let's inspect example.html
 '''
 
-# read the HTML code for a web page and save as a string
+# read the HTML code from a web page and save as a string
 with open('example.html', 'rU') as f:
     html = f.read()
 
@@ -65,9 +65,18 @@ b.find(name='p', attrs={'id':'scraping'})
 b.find_all(name='p', attrs={'class':'topic'})
 b.find_all(attrs={'class':'topic'})
 
+b.find_all(attrs={'class':'topic'})[0].text
+
+topics = b.find_all(attrs={'class':'topic'})
+for row in topics:
+    print(row.text)
+
+
 # limit search to specific sections
 b.find_all(name='li')
 b.find(name='ul', attrs={'id':'scraping'}).find_all(name='li')
+
+
 
 '''
 EXERCISE ONE
@@ -81,9 +90,7 @@ EXERCISE ONE
 
 # find the first 'p' tag and then print the value of the 'id' attribute
 
-
-# print the text of all four resources
-
+# print the text of all four resources displayed on the webpage
 
 # print the text of only the API resources
 
@@ -94,16 +101,26 @@ Scraping the IMDb website
 
 # get the HTML from the Shawshank Redemption page
 import requests
+
 r = requests.get('http://www.imdb.com/title/tt0111161/')
+#r = requests.get('http://www.imdb.com/title/tt0133093/') # The Matrix
 
 # convert HTML into Soup
 b = BeautifulSoup(r.text)
 print b
 
-# run this code if you have encoding errors
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
+import codecs
+# write text from b.  Encode the text as 'utf8'
+# writing with the default of ASCII causes a write failure due to utf8 characters in b
+f = codecs.open(r'/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/Shawshank.html', "w", 'utf-8')
+f.write (b.prettify()) 
+f.close()
+
+
+# Uncomment and then run the next 3 lines only you have encoding errors
+# import sys
+#reload(sys)
+# sys.setdefaultencoding('utf8')
 
 # get the title
 b.find_all(name='span', attrs={'class':'itemprop', 'itemprop':'name'})    # too many results
@@ -125,6 +142,7 @@ EXERCISE TWO
 
 
 # get the duration in minutes (as an integer)
+
 
 
 '''
@@ -168,11 +186,63 @@ Finally, convert that list into a DataFrame.
 # convert the list of movies into a DataFrame
 
 
+'''
+Another IMDb example: Getting the genres
+'''
 
+# read the Shawshank Redemption page again
+r = requests.get('http://www.imdb.com/title/tt0111161/')
+b = BeautifulSoup(r.text)
+
+# only gets the first genre
+b.find(name='span', attrs={'class':'itemprop', 'itemprop':'genre'})
+
+# gets all of the genres
+b.find_all(name='span', attrs={'class':'itemprop', 'itemprop':'genre'})
+
+# stores the genres in a list
+[tag.text for tag in b.find_all(name='span', attrs={'class':'itemprop', 'itemprop':'genre'})]
+
+'''
+Another IMDb example: Getting the writers
+'''
+
+# attempt to get the list of writers (too many results)
+b.find_all(name='span', attrs={'itemprop':'name'})
+
+# limit search to a smaller section to only get the writers
+b.find(name='div', attrs={'itemprop':'creator'}).find_all(name='span', attrs={'itemprop':'name'})
+
+'''
+Another IMDb example: Getting the URLs of cast images
+'''
+
+# find the images by size
+results = b.find_all(name='img', attrs={'height':'44', 'width':'32'})
+
+# check that the number of results matches the number of cast images on the page
+len(results)
+
+# iterate over the results to get all URLs
+for tag in results:
+    print tag['loadlate']
+
+'''
+Useful to know: 
+When writing to a file, Python 2.7x by default writes it with ASCII encoding.
+Writing with the default of ASCII will cause a write failure if there are any utf8 characters in the text being written.
+Use a codecs.open() to write the file with utf8 encoding.
+#
+'''
+import codecs
+f = codecs.open(r'/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/Shawshank.html', "w", 'utf-8')
+f.write (b.prettify()) 
+f.close()
 
 
 '''
-Useful to know: Alternative Beautiful Soup syntax
+Useful to know:
+Alternative Beautiful Soup syntax
 '''
 
 # read the example web page again
