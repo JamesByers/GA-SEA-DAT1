@@ -250,8 +250,8 @@ Tuesday | Thursday
 * Fetching data through APIs
     * [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
     * Code along - Access APIs on omdbapi.com[(code)](code/07_api.py))
-    * Excercise - accessing US Census language stats though APIs
-    * [Census.gov language statistics page with API descriptions](http://www.census.gov/data/developers/data-sets/language-stats.html)
+     * Exercise - Retrieve US Census language stats though APIs
+    * [Census.gov language statistics page with API description](http://www.census.gov/data/developers/data-sets/language-stats.html)
 * Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [IMDb: robots.txt](http://www.imdb.com/robots.txt)
     * [Example web page](data/example.html)
@@ -259,7 +259,7 @@ Tuesday | Thursday
 
 
 **Homework:**
-* **Optional:** Complete the homework exercise listed in the [web scraping code](code/07_web_scraping.py). It will take the place of any one homework you miss, past or future! This is due on Tuesday (9/15).
+* **Optional:** Complete the homework exercise listed in the [web scraping code](code/07_web_scraping.py). It will take the place of any one homework you miss, past or future! This is due on Monday (11/23).
 * **Optional:** If you're not using Anaconda, [install Seaborn](http://stanford.edu/~mwaskom/software/seaborn/installing.html) using `pip`. If you're using Anaconda, install Seaborn by running `conda install seaborn` at the command line. (Note that some students in past courses have had problems with Anaconda after installing Seaborn.)
 
 **API Resources:**
