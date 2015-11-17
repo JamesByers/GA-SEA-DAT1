@@ -251,7 +251,7 @@ Tuesday | Thursday
     * [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
     * Code along - Access APIs on omdbapi.com [(code)](code/07_api.py)
      * Exercise - Retrieve US Census language stats though APIs
-    * [Census.gov language statistics page with API description](http://www.census.gov/data/developers/data-sets/language-stats.html)
+     * [Census.gov language statistics page with API description](http://www.census.gov/data/developers/data-sets/language-stats.html)
 * Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [IMDb: robots.txt](http://www.imdb.com/robots.txt)
     * [Example web page](data/example.html)
