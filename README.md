@@ -248,7 +248,7 @@ Tuesday | Thursday
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
-    * [The OMDb API - omdbapi.com](http://www.omdbapi.com/) and [(slides)](/slides/07_APIs_and_web_scraping.pdf)
+    * [(slides)](/slides/07_APIs_and_web_scraping.pdf) and [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
     * Code along - Access APIs on omdbapi.com [(code)](code/07_api.py)
      * Exercise - Retrieve US Census language stats though APIs
      * [Census.gov language statistics page with API description](http://www.census.gov/data/developers/data-sets/language-stats.html)
