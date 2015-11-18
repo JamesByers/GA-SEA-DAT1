@@ -246,12 +246,12 @@ Tuesday | Thursday
 
 ### Class 7: Fetching Data
 
-** After this lesson you will be able to:**
+**After this lesson you will be able to:**
 * Articulate what JSON, APIs and Web scraping are and how they help us fetch data
 * Retrieve data from a website using the site’s APIs
 * Scrape a web page to extract data
 
-** Topics/Highlights **
+**Topics/Highlights**
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
