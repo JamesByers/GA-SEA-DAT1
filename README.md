@@ -214,6 +214,7 @@ Tuesday | Thursday
 -----
 
 ### Class 6: Machine Learning
+**Topics/Highlights:**
 * Part 2 of Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))
 * Brief introduction to the Jupyter/IPython Notebook
 * "Human learning" exercise:
@@ -251,7 +252,7 @@ Tuesday | Thursday
 * Retrieve data from a website using the site’s APIs
 * Scrape a web page to extract data
 
-**Topics/Highlights**
+**Topics/Highlights:**
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
