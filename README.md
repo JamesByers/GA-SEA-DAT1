@@ -290,12 +290,16 @@ Tuesday | Thursday
 -----
 
 ### Class 8: K-Nearest Neighbors
+* Part 2 - Grabbing data using Web scraping ([code](code/07_web_scraping.py))
+    * [APIs - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
+    * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
 * Brief review of Pandas ([notebook](notebooks/08_pandas_review.ipynb))
 * K-nearest neighbors and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
 * Exercise with NBA player data ([notebook](notebooks/08_nba_knn.ipynb), [data](https://github.com/justmarkham/DAT4-students/blob/master/kerry/Final/NBA_players_2015.csv), [data dictionary](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf))
-* Exploring the bias-variance tradeoff ([notebook](notebooks/08_bias_variance.ipynb))
+
 
 **Homework:**
+* Brief review of Pandas exercise ([notebook](notebooks/08_pandas_review.ipynb))  Complete this quick exercise to sharpen your understanding of dataframes.
 * Reading assignment on the [bias-variance tradeoff](homework/09_bias_variance.md)
 * Read Kevin's [introduction to reproducibility](http://www.dataschool.io/reproducibility-is-not-just-for-researchers/), read Jeff Leek's [guide to creating a reproducible analysis](https://github.com/jtleek/datasharing), and watch this related [Colbert Report video](http://thecolbertreport.cc.com/videos/dcyvro/austerity-s-spreadsheet-error) (8 minutes).
 * Work on your project... your first project presentation is in less than two weeks!
@@ -316,6 +320,7 @@ Tuesday | Thursday
 
 ### Class 9: Basic Model Evaluation
 * Optional web scraping homework due ([solution](code/07_web_scraping.py#L136))
+* Exploring the bias-variance tradeoff ([notebook](notebooks/08_bias_variance.ipynb)) 
 * Reproducibility
     * Discuss assigned readings: [introduction](http://www.dataschool.io/reproducibility-is-not-just-for-researchers/), [Colbert Report video](http://thecolbertreport.cc.com/videos/dcyvro/austerity-s-spreadsheet-error), [cabs article](http://iquantny.tumblr.com/post/107245431809/how-software-in-half-of-nyc-cabs-generates-5-2), [Tweet](https://twitter.com/jakevdp/status/519563939177197571), [creating a reproducible analysis](https://github.com/jtleek/datasharing)
     * Examples: [Classic rock](https://github.com/fivethirtyeight/data/tree/master/classic-rock), [student project 1](https://github.com/jwknobloch/DAT4_final_project), [student project 2](https://github.com/justmarkham/DAT4-students/tree/master/Jonathan_Bryan/Project_Files)
