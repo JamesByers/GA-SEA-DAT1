@@ -296,7 +296,7 @@ Tuesday | Thursday
 -----
 
 ### Class 8: K-Nearest Neighbors
-* Part 2 - Grabbing data using Web scraping ([code](code/07_web_scraping.py))
+* Part 2 - Grabbing more data using Web scraping ([code](code/07_web_scraping.py))
     * [Web sraping - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
 * K-nearest neighbors and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
