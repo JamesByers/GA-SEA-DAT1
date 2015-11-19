@@ -25,11 +25,11 @@ r = requests.get('http://api.census.gov/data/2013/language?get=EST,LANLABEL,NAME
 # view the raw response text
 
 
-# Convert to jason()
+# Convert to json()
 
 
 # 
-#look at the contents of the output of the jason() method.  It looks like it can easily become a list of lists
+#look at the contents of the output of the json() method.  It looks like it can easily become a list of lists
 
 # Convert the jason() method output into a dataframe with the first list as the column header and the rest as rows of data
 

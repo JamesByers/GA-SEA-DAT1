@@ -34,10 +34,12 @@ b = BeautifulSoup(html)
 # print out the object
 print b
 print b.prettify()
+type(b)
 
 # 'find' method returns the first matching Tag (and everything inside of it)
 b.find(name='body')
 b.find(name='h1')
+b.find(name='title')
 
 # Tags allow you to access the 'inside text'
 b.find(name='h1').text
@@ -53,7 +55,7 @@ b.find_all(name='p')    # returns a ResultSet (like a list of Tags)
 len(b.find_all(name='p'))
 b.find_all(name='p')[0]
 b.find_all(name='p')[0].text
-b.find_all(name='p')[0]['id']
+b.find_all(name='p')[1]['id']
 
 # iterate over a ResultSet
 results = b.find_all(name='p')
@@ -71,6 +73,7 @@ topics = b.find_all(attrs={'class':'topic'})
 for row in topics:
     print(row.text)
 
+len(topics)
 
 # limit search to specific sections
 b.find_all(name='li')
