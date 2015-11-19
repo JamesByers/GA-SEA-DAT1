@@ -299,7 +299,7 @@ Tuesday | Thursday
 * Part 2 - Grabbing more data using Web scraping ([code](code/07_web_scraping.py))
     * [Web sraping - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
-* K-nearest neighbors and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
+* K-nearest neighbors (KNN) and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
 * Exercise with NBA player data ([notebook](notebooks/08_nba_knn.ipynb), [data](/data/NBA_players_2015.csv), [data dictionary](/slides/07_nba_paper.pdf))
 
 
