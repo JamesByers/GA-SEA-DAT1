@@ -262,7 +262,7 @@ Tuesday | Thursday
 * Pandas homework with the IMDb data due ([code](homework/05_pandas_homework_imbd.py))
 * Optional "human learning" exercise with the iris data due ([code](notebooks/06_human_learning_iris.ipynb))
 * Fetching data through APIs
-    * [Web scraping - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf) and [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
+    * [APIs - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf) and [The OMDb API - omdbapi.com](http://www.omdbapi.com/)
     * Code along - Access APIs on omdbapi.com [(code)](code/07_api.py)
      * Exercise - Retrieve US Census language stats though APIs
      * [Census.gov language statistics page with API description](http://www.census.gov/data/developers/data-sets/language-stats.html)
@@ -297,7 +297,7 @@ Tuesday | Thursday
 
 ### Class 8: K-Nearest Neighbors
 * Part 2 - Grabbing data using Web scraping ([code](code/07_web_scraping.py))
-    * [APIs - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
+    * [Web sraping - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
 * K-nearest neighbors and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
 * Exercise with NBA player data ([notebook](notebooks/08_nba_knn.ipynb), [data](/data/NBA_players_2015.csv), [data dictionary](/slides/07_nba_paper.pdf))
