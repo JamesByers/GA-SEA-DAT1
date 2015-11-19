@@ -67,7 +67,7 @@ Tuesday | Thursday
 -->
 &nbsp;
 ## Other resources
-### [Diagram of machine learning technique selection](http://3.bp.blogspot.com/-dofu6J0sZ8o/UrctKb69QdI/AAAAAAAADfg/79ewPecn5XU/s1600/scikit-learn-flow-chart.jpg)
+### [Machine learning technique selection - a diagram](http://3.bp.blogspot.com/-dofu6J0sZ8o/UrctKb69QdI/AAAAAAAADfg/79ewPecn5XU/s1600/scikit-learn-flow-chart.jpg)
  &nbsp;
 
 
