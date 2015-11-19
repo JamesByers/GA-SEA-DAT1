@@ -293,13 +293,12 @@ Tuesday | Thursday
 * Part 2 - Grabbing data using Web scraping ([code](code/07_web_scraping.py))
     * [APIs - key concepts (slides)](/slides/07_APIs_and_web_scraping.pdf)
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
-* Brief review of Pandas ([notebook](notebooks/08_pandas_review.ipynb))
 * K-nearest neighbors and scikit-learn ([notebook](notebooks/08_knn_sklearn.ipynb))
-* Exercise with NBA player data ([notebook](notebooks/08_nba_knn.ipynb), [data](https://github.com/justmarkham/DAT4-students/blob/master/kerry/Final/NBA_players_2015.csv), [data dictionary](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf))
+* Exercise with NBA player data ([notebook](notebooks/08_nba_knn.ipynb), [data](/data/NBA_players_2015.csv), [data dictionary](/slides/07_nba_paper.pdf))
 
 
 **Homework:**
-* Brief review of Pandas exercise ([notebook](notebooks/08_pandas_review.ipynb))  Complete this quick exercise to sharpen your understanding of dataframes.
+* Quick Pandas exercise ([notebook](notebooks/08_pandas_review.ipynb)).  Complete this exercise to sharpen your understanding of dataframes.
 * Reading assignment on the [bias-variance tradeoff](homework/09_bias_variance.md)
 * Read Kevin's [introduction to reproducibility](http://www.dataschool.io/reproducibility-is-not-just-for-researchers/), read Jeff Leek's [guide to creating a reproducible analysis](https://github.com/jtleek/datasharing), and watch this related [Colbert Report video](http://thecolbertreport.cc.com/videos/dcyvro/austerity-s-spreadsheet-error) (8 minutes).
 * Work on your project... your first project presentation is in less than two weeks!
