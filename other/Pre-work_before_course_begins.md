@@ -10,7 +10,7 @@
 * Once you receive an email invitation from Slack, join our "SEA-DAT1" Slack group and add your photo.
 * Practice Python using the resources below.
 
-### Learn and practive Python with these resources:
+### Learn and practice Python with these resources:
 Work through the Python training and practice listed in the "Walk through and attempt self-guided practice in Python, Git/GitHub, Pandas, and Command Line with these tutorials and resources" section of this [document](https://docs.google.com/document/d/17FX-mwbm5f_03lCzUrKaejtqkpFlOogeM2HoYcyOuTk/edit)
 
 
