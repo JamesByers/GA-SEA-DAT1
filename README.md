@@ -355,7 +355,7 @@ Tuesday | Thursday
 * Linear regression ([notebook](notebooks/10_linear_regression.ipynb))
     * [Capital Bikeshare dataset](data/bikeshare.csv) used in a Kaggle competition
     * [Data dictionary](https://www.kaggle.com/c/bike-sharing-demand/data)
-    * Anscombes_Quartet [notebook](data/10_Anscombes_Quartet.ipynb)
+    * Anscombes_Quartet [(notebook)](data/10_Anscombes_Quartet.ipynb)
 * Feature engineering example: [Predicting User Engagement in Corporate Collaboration Network](https://github.com/mikeyea/DAT7_project/blob/master/final%20project/Class_Presention_MYea.ipynb)
 
 **Homework:**
