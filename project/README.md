@@ -77,7 +77,7 @@ You'll be giving a short presentation to the class about the work you have done 
 * Make sure your project question is crystal clear to every person in the room in the first minute.
 * Tell your story in an engaging fashion. Come up with a story or example that will help the audience to relate to your topic.
 * It is critical that you practice delivering your presentation and time yourself.
-* If you find that your presentation is longer than 5 minutes, the solution is not to speak more quickly. Instead, focus your presentation around the most interesting aspects of your project.
+* If you find that your presentation is longer than 10 minutes, the solution is not to speak more quickly. Instead, focus your presentation around the most interesting aspects of your project.
 
 ##### Note on including your data
 
