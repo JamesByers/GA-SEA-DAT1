@@ -397,7 +397,7 @@ Tuesday | Thursday
 -----
 
 ### Class 12: Logistic Regression
-* Yelp votes homework due ([solution](homework/10_yelp_votes_homework.ipynb))
+* Yelp votes homework due ([notebook](homework/10_yelp_votes_homework.ipynb))
 * Logistic regression ([notebook](notebooks/12_logistic_regression.ipynb))
     * [Glass identification dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
 * Exercise with Titanic data ([notebook](notebooks/12_titanic_confusion.ipynb), [data](data/titanic.csv), [data dictionary](https://www.kaggle.com/c/titanic/data))
