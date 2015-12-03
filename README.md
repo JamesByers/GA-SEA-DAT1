@@ -396,7 +396,6 @@ Tuesday | Thursday
 
 -----
 
-<!--
 ### Class 12: Logistic Regression
 * Yelp votes homework due ([solution](notebooks/10_yelp_votes_homework.ipynb))
 * Logistic regression ([notebook](notebooks/12_logistic_regression.ipynb))
@@ -421,6 +420,7 @@ Tuesday | Thursday
 * This blog post about [Amazon Machine Learning](https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/) contains a neat [graphic](https://media.amazonwebservices.com/blog/2015/ml_adjust_model_1.png) showing how classification threshold affects different evaluation metrics.
 * This notebook (from another DAT course) explains [how to calculate "expected value"](https://github.com/podopie/DAT18NYC/blob/master/classes/13-expected_value_cost_benefit_analysis.ipynb) from a confusion matrix by treating it as a cost-benefit matrix.
 
+<!--
 -----
 
 ### Class 13: Advanced Model Evaluation
@@ -456,4 +456,5 @@ Tuesday | Thursday
 * scikit-learn has extensive documentation on [model evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html).
 * [Counterfactual evaluation of machine learning models](https://www.youtube.com/watch?v=QWCSxAKR-h0) (45 minutes) is an excellent talk about the sophisticated way in which Stripe evaluates its fraud detection model. (These are the associated [slides](http://www.slideshare.net/MichaelManapat/counterfactual-evaluation-of-machine-learning-models).)
 * [Visualizing Machine Learning Thresholds to Make Better Business Decisions](http://blog.insightdatalabs.com/visualizing-classifier-thresholds/) demonstrates how visualizing precision, recall, and "queue rate" at different thresholds can help you to maximize the business value of your classifier.
+
 -->
