@@ -16,7 +16,7 @@ Tuesday | Thursday
 11/17: [L07 Fetching Data](#class-7-fetching-data) | 11/19: [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)
 **Monday** 11/23: [L09 Basic Model Evaluation](#class-9-basic-model-evaluation) | 11/26 (Holiday/ No class) |
 12/1: [L10 Linear Regression](#class-10-linear-regression) | 12/3:  L11 **First Project Presentation** 
-12/8: L12 Logistic Regression | 12/10: L13 Advanced Model Evaluation
+12/8: [L12 Logistic Regression](#class-12-logistic-regression) | 12/10: [L13 Advanced Model Evaluation](#class-13-advanced-model-evaluation)
 12/15: L14 Naive Bayes and Text Data | 12/17: L15  Language Processing
 12/22: L16 TBD, **Draft Paper Due** | 12/24: (Holiday/ No class)
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
@@ -420,7 +420,6 @@ Tuesday | Thursday
 * This blog post about [Amazon Machine Learning](https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/) contains a neat [graphic](https://media.amazonwebservices.com/blog/2015/ml_adjust_model_1.png) showing how classification threshold affects different evaluation metrics.
 * This notebook (from another DAT course) explains [how to calculate "expected value"](https://github.com/podopie/DAT18NYC/blob/master/classes/13-expected_value_cost_benefit_analysis.ipynb) from a confusion matrix by treating it as a cost-benefit matrix.
 
-<!--
 -----
 
 ### Class 13: Advanced Model Evaluation
@@ -456,5 +455,3 @@ Tuesday | Thursday
 * scikit-learn has extensive documentation on [model evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html).
 * [Counterfactual evaluation of machine learning models](https://www.youtube.com/watch?v=QWCSxAKR-h0) (45 minutes) is an excellent talk about the sophisticated way in which Stripe evaluates its fraud detection model. (These are the associated [slides](http://www.slideshare.net/MichaelManapat/counterfactual-evaluation-of-machine-learning-models).)
 * [Visualizing Machine Learning Thresholds to Make Better Business Decisions](http://blog.insightdatalabs.com/visualizing-classifier-thresholds/) demonstrates how visualizing precision, recall, and "queue rate" at different thresholds can help you to maximize the business value of your classifier.
-
--->
