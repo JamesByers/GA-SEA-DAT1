@@ -41,7 +41,7 @@ header = r.json()[0]
 body = r.json()[1:]
 data = pd.DataFrame(body, columns=header)
 
-type(data)
+type(header)
 # Sort the dataframe decending by the number of people speaking the language
 # Check the data type of 'EST', the number of people that speak the language
 
