@@ -2,7 +2,7 @@
 
 First, read these [lesson notes](http://ebp.uga.edu/courses/Chapter%204%20-%20Diagnosis%20I/8%20-%20ROC%20curves.html) from a university course for an excellent overview of ROC curves.
 
-Then, watch my video on [ROC Curves and Area Under the Curve](https://www.youtube.com/watch?v=OAl6eAyP-yo) (14 minutes), and be prepared to **discuss it in class** on Tuesday. (Feel free to play with the [visualization](http://www.navan.name/roc/) shown in the video, or view the [video transcript and screenshots](http://www.dataschool.io/roc-curves-and-auc-explained/).)
+Then, watch Justin Markum's video on [ROC Curves and Area Under the Curve](https://www.youtube.com/watch?v=OAl6eAyP-yo) (14 minutes), and be prepared to **discuss it in class** on Tuesday. (Feel free to play with the [visualization](http://www.navan.name/roc/) shown in the video, or view the [video transcript and screenshots](http://www.dataschool.io/roc-curves-and-auc-explained/).)
 
 **Optional:** If you would like to go even deeper, [An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf) is a very readable paper on the topic.
 
