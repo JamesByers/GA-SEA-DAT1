@@ -67,6 +67,8 @@ Tuesday | Thursday
 -->
 ## Other resources
 #### [Machine learning estimator selection - a diagram](http://3.bp.blogspot.com/-dofu6J0sZ8o/UrctKb69QdI/AAAAAAAADfg/79ewPecn5XU/s1600/scikit-learn-flow-chart.jpg)
+
+#### [Estimator comparison](/other/model_comparison.md)
  &nbsp;
 
 
