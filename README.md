@@ -531,4 +531,4 @@ Tuesday | Thursday
 
 -----
 
-### Class 16: SVC - Support vector classifier
+### Class 16: Neural Networks and SVC (Support Vector Classifier)
