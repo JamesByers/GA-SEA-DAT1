@@ -496,12 +496,12 @@ Tuesday | Thursday
  * Vectorization/Tokenization
  * Stopword Removal
  * Other CountVectorizer options
-* Intro to [TextBlob](https://textblob.readthedocs.org/en/dev/)
- * Stemming and Lemmatization
-  * Term Frequency-Inverse Document Frequency (TF-IDF)
-   *  Using TF-IDF to Summarize a Yelp Review
-  *  Sentiment Analysis
-
+ * Intro to [TextBlob](https://textblob.readthedocs.org/en/dev/)
+  * Stemming and Lemmatization
+   * Term Frequency-Inverse Document Frequency (TF-IDF)
+    *  Using TF-IDF to Summarize a Yelp Review
+   *  Sentiment Analysis
+* Overview of how Kaggle competitions work ([slides](slides/16_kaggle.pdf))
 <!--
 * Introduction to our [Kaggle competition](https://inclass.kaggle.com/c/dat8-stack-overflow)
     * Create a Kaggle account, join the competition using the invitation link, download the sample submission, and then submit the sample submission (which will require SMS account verification).
