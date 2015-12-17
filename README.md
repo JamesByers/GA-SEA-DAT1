@@ -490,6 +490,14 @@ Tuesday | Thursday
 
 ### Class 15: Natural Language Processing
 * Natural language processing ([notebook](notebooks/15_natural_language_processing.ipynb))
+ * Vectorization/Tokenization
+ * Stopword Removal
+ * Other CountVectorizer options
+* Intro to TextBlob
+* Stemming and Lemmatization
+* Term Frequency-Inverse Document Frequency (TF-IDF)
+ *  Using TF-IDF to Summarize a Yelp Review
+ *  Sentiment Analysis
 
 <!--
 * Introduction to our [Kaggle competition](https://inclass.kaggle.com/c/dat8-stack-overflow)
