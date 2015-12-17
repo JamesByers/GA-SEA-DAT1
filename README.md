@@ -493,11 +493,11 @@ Tuesday | Thursday
  * Vectorization/Tokenization
  * Stopword Removal
  * Other CountVectorizer options
-* Intro to TextBlob
-* Stemming and Lemmatization
-* Term Frequency-Inverse Document Frequency (TF-IDF)
- *  Using TF-IDF to Summarize a Yelp Review
- *  Sentiment Analysis
+* Intro to [TextBlob](https://textblob.readthedocs.org/en/dev/)
+ * Stemming and Lemmatization
+  * Term Frequency-Inverse Document Frequency (TF-IDF)
+   *  Using TF-IDF to Summarize a Yelp Review
+  *  Sentiment Analysis
 
 <!--
 * Introduction to our [Kaggle competition](https://inclass.kaggle.com/c/dat8-stack-overflow)
