@@ -497,9 +497,9 @@ Tuesday | Thursday
  * Stopword Removal
  * Other CountVectorizer options
  * Intro to [TextBlob](https://textblob.readthedocs.org/en/dev/)
-  * Stemming and Lemmatization
+   * Stemming and Lemmatization
    * Term Frequency-Inverse Document Frequency (TF-IDF)
-    *  Using TF-IDF to Summarize a Yelp Review
+   *  Using TF-IDF to Summarize a Yelp Review
    *  Sentiment Analysis
 * Overview of how Kaggle competitions work ([slides](slides/16_kaggle.pdf))
 
