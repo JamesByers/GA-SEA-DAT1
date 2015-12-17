@@ -497,16 +497,17 @@ Tuesday | Thursday
 -->
 
 **Homework:**
-* Your draft paper is due on Thursday (12/22)! Please submit a link to your project repository (with paper, code, data, and visualizations) before class.
+* **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class.
+* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22).
 
 <!--
 * Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle platform.
 
 * Download the competition files, move them to the `DAT8/data` directory, and make sure you can open the CSV files using Pandas. If you have any problems opening the files, you probably need to turn off real-time virus scanning (especially Microsoft Security Essentials).
--->
+
 * **Optional:** Come up with some theories about which features might be relevant to predicting the response, and then explore the data to see if those theories appear to be true.
 * **Optional:** Watch Kevin Markum's [project presentation video](https://www.youtube.com/watch?v=HGr1yQV3Um0) (16 minutes) for a tour of the end-to-end machine learning process for a Kaggle competition, including feature engineering.
-
+-->
 <!--
 (Or, just read through the [slides](https://speakerdeck.com/justmarkham/allstate-purchase-prediction-challenge-on-kaggle).)
 -->
