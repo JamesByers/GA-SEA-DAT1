@@ -502,14 +502,16 @@ Tuesday | Thursday
     *  Using TF-IDF to Summarize a Yelp Review
    *  Sentiment Analysis
 * Overview of how Kaggle competitions work ([slides](slides/16_kaggle.pdf))
+
 <!--
 * Introduction to our [Kaggle competition](https://inclass.kaggle.com/c/dat8-stack-overflow)
     * Create a Kaggle account, join the competition using the invitation link, download the sample submission, and then submit the sample submission (which will require SMS account verification).
 -->
 
 **Homework:**
-* **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class.
-* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22).
+* **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
+* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
+* Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle competiton platform
 
 <!--
 * Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle platform.
