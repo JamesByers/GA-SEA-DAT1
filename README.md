@@ -489,7 +489,6 @@ Tuesday | Thursday
 -----
 
 ### Class 15: Natural Language Processing
-* Yelp review text homework due ([solution](notebooks/14_yelp_review_text_homework.ipynb))
 * Natural language processing ([notebook](notebooks/15_natural_language_processing.ipynb))
 
 <!--
