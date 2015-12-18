@@ -11,7 +11,7 @@ plt.rcParams['font.size'] = 14
 
 
 # read in the drinks data
-file_path_drinks = '/Users/reneehosogi/Documents/GitHub_Clones/GA-SEA-DAT1/data/'
+file_path_drinks = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/'
 drink_cols = ['country', 'beer', 'spirit', 'wine', 'liters', 'continent']
 url = file_path_drinks + 'drinks.csv'
 drinks = pd.read_csv(url, header=0, names=drink_cols, na_filter=False)
@@ -102,7 +102,7 @@ drinks.groupby('continent').mean().drop('liters', axis=1).plot(kind='bar', stack
 ###
 
 ## read in two files into separate dataframes
-file_path_pronto = '/Users/jim_byers/Documents/GA/GA_Data_Science_course/SEA-DAT1/data/pronto_cycle_share/'
+file_path_pronto = '/Users/reneehosogi/Documents/GitHub_Clones/GA-SEA-DAT1/data/pronto_cycle_share/'
 
 trip_data_url = file_path_pronto + '2015_trip_data.csv'
 trip_data = pd.read_table(trip_data_url, sep=',', header=0)
@@ -111,29 +111,38 @@ station_data_url = file_path_pronto + '2015_station_data.csv'
 station_data = pd.read_table(station_data_url, sep=',', header=0, usecols=['name','dockcount'])
 
 ## merge the two files on with left join on 'from_station_name' = 'name'
-
-# < your code here >
+trip_and_dockcount_data = pd.merge(trip_data, station_data, how='left', left_on='from_station_name', right_on='name')
+del trip_and_dockcount_data['name']
 
 ## create a new column of age where age is 2015 - birthyear
+type(trip_and_dockcount_data.birthyear[1])  # this test shows that birthyear is a float in our dataframe rather than text. So do we do not have to convert birthyear to int of float for our calculation of age
+trip_and_dockcount_data['age'] = 2015 - trip_and_dockcount_data.birthyear
 
-# < your code here >
+
+trip_and_dockcount_data['age'] = 2015 - trip_and_dockcount_data.birthyear
+trip_and_dockcount_data.age
+type(trip_and_dockcount_data.age[1])  #this test shows that the age values are floats.  If we prefer we can change it it and integer.
 
 
 ## Display a histogram of the number of trips by age
 
 # < your code here >
 
+trip_and_dockcount_data.age.plot(kind='hist', bins=7)
 
 ## Re-display the histogram and add title and labels
 # Title the chart "Histogram of # of rides by age"
 # Label the x-axis "Age" and the 
 
 # <your code here>
-
+trip_and_dockcount_data.age.plot(kind='hist' , bins=7, title='Histogram of # of rides by age')
+plt.xlabel('Age')
+plt.ylabel('# of rides')
 
 # Display a density plot for comparison
-
-# <your code here>
+trip_and_dockcount_data.age.plot(kind='density', title='Density plot of # of rides by age')
+plt.xlabel('Age')
+plt.ylabel('Density of rides')
 
 
 
@@ -178,12 +187,17 @@ drinks.drop('liters', axis=1).plot(kind='box')
 #Display a box plot of age
 
 # <your code goes here>
-
+trip_and_dockcount_data.age.plot(kind='box', title='Box plot of # of rides by age')
+plt.ylabel('# of rides first Pronto year')
 
 ## Bonus: State a conclusion you can make about the distribution of rider ages for the rides?
+trip_and_dockcount_data.age.describe()
 
- 
 # <your statement and new code (if needed) go here>
+
+
+# One statement that we can make is that half of our rides in the first year are from riders with ages
+#  between 28 and 41.
 
 
 
@@ -220,20 +234,28 @@ type(trip_and_dockcount_data.starttime[1]) # note that type of starttime is stri
 ## Create a new column 'start_datetime' in the dataframe from_date_day that contains datetimes from the starttime str values
 
 # <your code goes here>
+trip_and_dockcount_data['start_datetime'] = pd.to_datetime(trip_and_dockcount_data.starttime, infer_datetime_format=True)
 
 ## Display a line chart of trips by date
-# Note: the line chart will be quite busy
- 
+# Note: the line chart will be quite noisy 
+# <your code goes here>
+
+trip_and_dockcount_data.start_datetime.value_counts().sort_index() # Get the sort of the values working
+trip_and_dockcount_data.start_datetime.value_counts().sort_index().plot(kind='line')  # plot the values
+
 # <your code goes here>
 
 
 ## Bonus: create a line chart with the rides per month.  You can use the month number for the month rather than the month name
+trip_and_dockcount_data['month_number'] = trip_and_dockcount_data.start_datetime.dt.month
+trip_and_dockcount_data.month_number.value_counts().sort_index() # Get the sort of the values working
 
-# <your code goes here>
+trip_and_dockcount_data.month_number.value_counts().sort_index().plot(kind='line') # plot it as a line plot
 
-
-# Re-display plot with title and axis labels
-
+#plot with title and axis labels
+trip_and_dockcount_data.month_number.value_counts().sort_index().plot(kind='line', title='Pronto rides by month number') # plot it as a line plot
+plt.xlabel('Month number')
+plt.ylabel('Number of rides')
 
 
 
@@ -289,7 +311,7 @@ plt.style.available
 
 
 # change to a different style
-plt.style.use('fivethirtyeight')
+plt.style.use('ggplot')
 
 ## Exercise 4 - Display a grouped box plot of the trip_and_dockcount_data ride durations by usertype
 
@@ -301,36 +323,37 @@ trip_and_dockcount_data['start_datetime'] = pd.to_datetime(trip_and_dockcount_da
 
 # Create a new column 'trip_duration' that is stoptime - startime in minutes
 
+trip_and_dockcount_data['trip_duration'] = pd.to_datetime(trip_and_dockcount_data.starttime, infer_datetime_format=True)
+trip_and_dockcount_data['starttime_date'] = pd.to_datetime(trip_and_dockcount_data.starttime, infer_datetime_format=True)
+trip_and_dockcount_data.trip_duration
 
+# Create a group box plot of the the frequency of the trip_duration values by usertype
 
-# Create a group box plot of the frequency of the trip_duration values by usertype
+trip_data.trip_duration.plot(kind='box')
+plt.xlabel('usertype')
+
 
 
 
 # Bonus 1: Display a box plot of duration that compares the duration box plots for each month
 
-trip_and_dockcount_data.boxplot(column='beer', by='continent')
+# <your code goes here>
 
 
 
 # Bonus 2: Write your box plot to a file
 
-# < your code goes here >
+# <your code goes here>
 
 
 
-# Bonus 3: Write your box plot to a file with image size 700x300
-# Hit: Web search for plt.savefig and image size
 
-# < your code goes here >
+# Bonus 3: Write your box plot to a file with image size 700x700
+# Hint: Web search for plt.savefig and image size
+
+# <your code goes here>
 
 
-import pandas as pd
-import matplotlib.pyplot as plt
 
-plt.rcParams['figure.figsize'] = (8, 6)
-plt.rcParams['font.size'] = 14
 
-iris_cols= ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species']
-url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
-iris = pd.read_csv(url, header=0, names=iris_cols, na_filter=False)
+

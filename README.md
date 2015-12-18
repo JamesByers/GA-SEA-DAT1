@@ -28,7 +28,9 @@ Tuesday | Thursday
 ## Submission Forms
 ### [      Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
 ### [      Homework and project submissions form] (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
+* [Homework Evaluation Criteria](https://docs.google.com/spreadsheets/d/19XaVllCETEWyROSMHIShVWgUqK-kbZkvSeCzjK7yezI/edit?usp=sharing)
  &nbsp;
+
 -----
 
 <!--
@@ -66,6 +68,7 @@ Tuesday | Thursday
 # http://3.bp.blogspot.com/-dofu6J0sZ8o/UrctKb69QdI/AAAAAAAADfg/79ewPecn5XU/s1600/scikit-learn-flow-chart.jpg
 -->
 ## Other resources
+
 #### [Machine learning estimator selection - a diagram](http://3.bp.blogspot.com/-dofu6J0sZ8o/UrctKb69QdI/AAAAAAAADfg/79ewPecn5XU/s1600/scikit-learn-flow-chart.jpg)
 
 #### [Machine learning model comparison](/other/model_comparison.md)
@@ -490,6 +493,15 @@ Tuesday | Thursday
 
 ### Class 15: Natural Language Processing
 * Natural language processing ([notebook](notebooks/15_natural_language_processing.ipynb))
+ * Vectorization/Tokenization
+ * Stopword Removal
+ * Other CountVectorizer options
+ * Intro to [TextBlob](https://textblob.readthedocs.org/en/dev/)
+  * Stemming and Lemmatization
+  * Term Frequency-Inverse Document Frequency (TF-IDF)
+  *  Using TF-IDF to Summarize a Yelp Review
+  *  Sentiment Analysis
+* Overview of how Kaggle competitions work ([slides](slides/16_kaggle.pdf))
 
 <!--
 * Introduction to our [Kaggle competition](https://inclass.kaggle.com/c/dat8-stack-overflow)
@@ -497,8 +509,9 @@ Tuesday | Thursday
 -->
 
 **Homework:**
-* **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class.
-* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22).
+* **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
+* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
+* Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle competiton platform
 
 <!--
 * Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle platform.
