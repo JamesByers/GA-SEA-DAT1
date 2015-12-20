@@ -18,7 +18,7 @@ Tuesday | Thursday
 12/1: [L10 Linear Regression](#class-10-linear-regression) | 12/3:  L11 **First Project Presentation** 
 12/8: [L12 Logistic Regression](#class-12-logistic-regression) | 12/10: [L13 Advanced Model Evaluation](#class-13-advanced-model-evaluation)
 12/15: [L14 Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data) | 12/17: [L15  Natural Language Processing](#class-15-natural-language-processing)
-12/22: L16 TBD, **Draft Paper Due** | 12/24: (Holiday/ No class)
+12/22: [L16 Neural Networks and SVC](#class-16-neural-networks-and-svc), **Draft Paper Due** | 12/24: (Holiday/ No class)
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 **2016** |
 1/5: L17 Decision Trees | 1/7: L18 Ensembling
@@ -544,13 +544,14 @@ Tuesday | Thursday
 
 -----
 
-### Class 16: Neural Networks and SVC (Support Vector Classifier)
+### Class 16: Neural Networks and SVC
 * Neural Networks
  * [slides](slides/16_nn_svm.pdf)
  * [notebook](notebook/16_nn_svc.ipynb)
 * SVC (Support Vector Classifier)
  * [slides](slides/16_nn_svm.pdf)
  * [notebook](notebook/16_nn_svc.ipynb)
+
 -----
 
 ### Class 19: Regularization and Clustering
