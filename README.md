@@ -548,7 +548,7 @@ Tuesday | Thursday
 
 -----
 
-### Class 19: Regularization and<br>Clustering
+### Class 19: Regularization and Clustering
 * Advanced scikit-learn ([notebook](notebooks/19_advanced_sklearn.ipynb))
     * [StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): standardizing features
     * [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html): chaining steps
