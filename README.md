@@ -545,7 +545,12 @@ Tuesday | Thursday
 -----
 
 ### Class 16: Neural Networks and SVC (Support Vector Classifier)
-
+* Neural Networks
+ * [slides](slides/16_nn_svm.pdf)
+ * [notebook](notebook/16_nn_svc.ipynb)
+* SVC (Support Vector Classifier)
+ * [slides](slides/16_nn_svm.pdf)
+ * [notebook](notebook/16_nn_svc.ipynb)
 -----
 
 ### Class 19: Regularization and Clustering
