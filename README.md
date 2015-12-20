@@ -22,7 +22,7 @@ Tuesday | Thursday
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 **2016** |
 1/5: L17 Decision Trees | 1/7: L18 Ensembling
-1/12:[ L19 Regularization and<br>Clustering, **Peer Review Due**](class-19-advanced-scikit-learn-and-Clustering) | 1/22: L20 Course Review and Bonus Topics
+1/12:[ L19 Regularization and<br>Clustering, **Peer Review Due**](class-19-advanced-scikit-learn-and-clustering) | 1/22: L20 Course Review and Bonus Topics
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
 &nbsp;
 ## Submission Forms
