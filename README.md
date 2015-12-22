@@ -18,7 +18,7 @@ Tuesday | Thursday
 12/1: [L10 Linear Regression](#class-10-linear-regression) | 12/3:  L11 **First Project Presentation** 
 12/8: [L12 Logistic Regression](#class-12-logistic-regression) | 12/10: [L13 Advanced Model Evaluation](#class-13-advanced-model-evaluation)
 12/15: [L14 Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data) | 12/17: [L15  Natural Language Processing](#class-15-natural-language-processing)
-12/22: L16 TBD, **Draft Paper Due** | 12/24: (Holiday/ No class)
+12/22: [L16 Neural Networks and SVC](#class-16-neural-networks-and-svc), **Draft Paper Due** | 12/24: (Holiday/ No class)
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 **2016** |
 1/5: L17 Decision Trees | 1/7: L18 Ensembling
@@ -368,7 +368,7 @@ Tuesday | Thursday
 * Complete the [homework assignment](homework/10_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv). This is due on Tuesday (12/8).
 
 **Linear Regression Resources:**
-* To go much more in-depth on linear regression, read Chapter 3 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). Alternatively, watch the [related videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) or read my [quick reference guide](http://www.dataschool.io/applying-and-interpreting-linear-regression/) to the key points in that chapter.
+* To go much more in-depth on linear regression, read Chapter 3 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). Alternatively, watch the [related videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) or read Kevin Markhams [quick reference guide](http://www.dataschool.io/applying-and-interpreting-linear-regression/) to the key points in that chapter.
 * This [introduction to linear regression](http://people.duke.edu/~rnau/regintro.htm) is more detailed and mathematically thorough, and includes lots of good advice.
 * This is a relatively quick post on the [assumptions of linear regression](http://pareonline.net/getvn.asp?n=2&v=8).
 * Setosa has an [interactive visualization](http://setosa.io/ev/ordinary-least-squares-regression/) of linear regression.
@@ -510,7 +510,7 @@ Tuesday | Thursday
 
 **Homework:**
 * **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
-* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
+* The [homework assignment](homework/14_yelp_review_text_homework.ipynb) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
 * Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle competiton platform
 
 <!--
@@ -544,16 +544,52 @@ Tuesday | Thursday
 
 -----
 
-### Class 16: Neural Networks and SVC (Support Vector Classifier)
-* Neural Networks
+### Class 16: Neural Networks and SVC
+* Artificial Neural Networks (ANN)
  * [slides](slides/16_nn_svm.pdf)
  * [notebook](notebook/16_nn_svc.ipynb)
 * SVC (Support Vector Classifier)
  * [slides](slides/16_nn_svm.pdf)
  * [notebook](notebook/16_nn_svc.ipynb)
+
+
+**SVC resources**
+* For a more in-depth inderstanding of Support Vector Machines and SVC, read Chapter 9 of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+* SVC videos by the authors of An Introduction to Statistical Learning can be found [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/).
+
+**ANN resources**
+* For a more background of on Artificial Neural Networks view this series.  It describes the logic behind ANN from a low level logic step by step point of view: 
+ * Part 1 https://www.youtube.com/watch?v=bxe2T-V8XRs
+ * Part 2 https://www.youtube.com/watch?v=UJwK6jAStmg
+ * Part 3 https://www.youtube.com/watch?v=5u0jaA3qAGk
+ * Part 4 https://www.youtube.com/watch?v=GlcnxUlrtek
+ * Part 5 https://www.youtube.com/watch?v=pHMzNW8Agq4
+ * Part 6 https://www.youtube.com/watch?v=9KM9Td6RVgQ
+ * Part 7 https://www.youtube.com/watch?v=S4ZUwgesjS8
+
+**Kaggle Resources:**
+* [Specialist Knowledge Is Useless and Unhelpful](http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html) is a brief interview with Jeremy Howard (past president of Kaggle) in which he argues that data science skills are much more important than domain expertise for creating effective predictive models.
+* [Getting in Shape for the Sport of Data Science](https://www.youtube.com/watch?v=kwt6XEh7U3g) (74 minutes), also by Jeremy Howard, contains a lot of tips for competitive machine learning.
+* [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/) is an excellent blog post covering top tips from Kaggle Masters on how to do well on Kaggle.
+* [Feature Engineering Without Domain Expertise](https://www.youtube.com/watch?v=bL4b1sGnILU) (17 minutes), a talk by Kaggle Master Nick Kridler, provides some simple advice about how to iterate quickly and where to spend your time during a Kaggle competition.
+* These examples may help you to better understand the process of feature engineering: predicting the number of [passengers at a train station](https://medium.com/@chris_bour/french-largest-data-science-challenge-ever-organized-shows-the-unreasonable-effectiveness-of-open-8399705a20ef), identifying [fraudulent users of an online store](https://docs.google.com/presentation/d/1UdI5NY-mlHyseiRVbpTLyvbrHxY8RciHp5Vc-ZLrwmU/edit#slide=id.p), identifying [bots in an online auction](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/forums/t/14628/share-your-secret-sauce), predicting who will [subscribe to the next season of an orchestra](http://blog.kaggle.com/2015/01/05/kaggle-inclass-stanfords-getting-a-handel-on-data-science-winners-report/), and evaluating the [quality of e-commerce search engine results](http://blog.kaggle.com/2015/07/22/crowdflower-winners-interview-3rd-place-team-quartet/).
+* [Our perfect submission](https://www.kaggle.com/c/restaurant-revenue-prediction/forums/t/13950/our-perfect-submission) is a fun read about how great performance on the [public leaderboard](https://www.kaggle.com/c/restaurant-revenue-prediction/leaderboard/public) does not guarantee that a model will generalize to new data.
+
 -----
 
-### Class 19: Regularization and Clustering
+### Class 17: Review and refresh
+
+-----
+
+### Class 18: Decision Trees
+
+-----
+
+### Class 19: Ensembling
+
+-----
+
+### Class 20: Regularization and Clustering
 * Advanced scikit-learn ([notebook](notebooks/19_advanced_sklearn.ipynb))
     * [StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): standardizing features
     * [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html): chaining steps
