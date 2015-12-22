@@ -577,11 +577,11 @@ Tuesday | Thursday
 
 -----
 
-### Class 17: Refresh and review
+### Class 17: Review and refresh
 
 -----
 
-Class 18: Decision Trees
+### Class 18: Decision Trees
 
 -----
 
