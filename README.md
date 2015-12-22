@@ -553,11 +553,11 @@ Tuesday | Thursday
  * [notebook](notebook/16_nn_svc.ipynb)
 
 
-** SVC resources **
+**SVC resources**
 * For a more in-depth inderstanding of Support Vector Machines and SVC, read Chapter 9 of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
 * SVC videos by the authors of An Introduction to Statistical Learning can be found [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/).
 
-** ANN resources **
+**ANN resources**
 * For a more background of on Artificial Neural Networks view this series.  It describes the logic behind ANN from a low level logic step by step point of view: 
  * Part 1 https://www.youtube.com/watch?v=bxe2T-V8XRs
  * Part 2 https://www.youtube.com/watch?v=UJwK6jAStmg
@@ -567,7 +567,7 @@ Tuesday | Thursday
  * Part 6 https://www.youtube.com/watch?v=9KM9Td6RVgQ
  * Part 7 https://www.youtube.com/watch?v=S4ZUwgesjS8
 
-** Kaggle Resources: **
+**Kaggle Resources:**
 * [Specialist Knowledge Is Useless and Unhelpful](http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html) is a brief interview with Jeremy Howard (past president of Kaggle) in which he argues that data science skills are much more important than domain expertise for creating effective predictive models.
 * [Getting in Shape for the Sport of Data Science](https://www.youtube.com/watch?v=kwt6XEh7U3g) (74 minutes), also by Jeremy Howard, contains a lot of tips for competitive machine learning.
 * [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/) is an excellent blog post covering top tips from Kaggle Masters on how to do well on Kaggle.
