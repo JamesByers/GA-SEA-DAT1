@@ -510,7 +510,7 @@ Tuesday | Thursday
 
 **Homework:**
 * **Your draft paper is due on Thursday (12/22)!** Please submit a link to your project repository (with paper, code, data, and visualizations) before class
-* The [homework assignment](homework/14_yelp_review_text.md) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
+* The [homework assignment](homework/14_yelp_review_text_homework.ipynb) with the [Yelp data](data/yelp.csv) is due on Tuesday (12/22)
 * Watch [Kaggle: How it Works](https://www.youtube.com/watch?v=PoD84TVdD-4) (4 minutes) for a brief overview of the Kaggle competiton platform
 
 <!--
