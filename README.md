@@ -555,6 +555,7 @@ Tuesday | Thursday
 
 ** SVC resources **
 * For a more in-depth inderstanding of Support Vector Machines and SVC, read Chapter 9 of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+* SVC videos by the authors of An Introduction to Statistical Learning can be found [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/).
 
 ** ANN resources **
 * For a more background of on Artificial Neural Networks view this series.  It describes the logic behind ANN from a low level logic step by step point of view: 
