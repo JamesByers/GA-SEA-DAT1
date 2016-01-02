@@ -10,8 +10,8 @@ Materials for [General Assembly's Data Science course](https://generalassemb.ly/
 Tuesday | Thursday
 --- | ---
 **2015** | 
-| 10/27: [L01 Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [Command Line, Version Control](#class-2-command-line-and-version-control)
-11/3: [L03 Data Reading and preparing](#class-3-data-reading-and-preparing) | 11/5: [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)
+| 10/27: [L01 Introduction to Data Science](#class-1-introduction-to-data-science) | 10/29: [L02 Command Line, Version Control](#class-2-command-line-and-version-control)
+11/3: [L03 Reading and preparing data](#class-3-reading-and-preparing-data) | 11/5: [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)
 11/10: [L05 Visualization](#class-5-visualization)** Project Discussion Deadline** | 11/12: [L06 Machine Learning](#class-6-machine-learning)** Project Question and Dataset Due**
 11/17: [L07 Fetching Data](#class-7-fetching-data) | 11/19: [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)
 **Monday** 11/23: [L09 Basic Model Evaluation](#class-9-basic-model-evaluation) | 11/26 (Holiday/ No class) |
@@ -144,7 +144,7 @@ Tuesday | Thursday
 
 -----
 
-### Class 3: Data Reading and Preparing
+### Class 3: Reading and Preparing Data
 
 **By the end of this lesson you will be able to:**
  * State use case where you would chose a python dictionary over a list and one case where you would choose a list over a dictionary
@@ -578,6 +578,9 @@ Tuesday | Thursday
 -----
 
 ### Class 17: Review and refresh
+*
+ * Pandas ([code](code/04_pandas.py)):
+    * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
 
 -----
 
