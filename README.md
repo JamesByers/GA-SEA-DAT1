@@ -578,9 +578,33 @@ Tuesday | Thursday
 -----
 
 ### Class 17: Review and refresh
-*
- * Pandas ([code](code/04_pandas.py)):
-    * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
+* Intro 	
+ * L01 Introduction to Data Science	
+ * L02 Command Line, Version Control	
+* Aquiring and preparing data	
+ * L03 Reading and Preparing Data	
+ * L07 Fetching Data	
+* Evaluating datasets with attributes and methods	
+ * L04 Exploratory Data Analysis	
+  * Exercise with dataframe attributes and methods: ([code](code/04_pandas.py))
+   * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
+* Visualization	
+ * L05 Visualization	
+	 * Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
+	 * Part 2 of Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))
+* L06 Machine Learning	
+ * Supervised or Unsupervised
+ * Continuous or Categorical
+*Predictive models	
+ * L08 K-Nearest Neighbors	
+ * L10 Linear Regression	
+ * L12 Logistic Regression	
+ * L14 Naïve Bayes and Text Data	
+ * L15 Natural Language Processing	
+ * L16 Neural Networks and SVC	
+* Model Evaluation	
+ * L09 Basic Model Evaluation	
+ * L13 Advanced Model Evaluation	
 
 -----
 
