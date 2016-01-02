@@ -601,7 +601,7 @@ Tuesday | Thursday
  		* L08 K-Nearest Neighbors	
  		* L12 Logistic Regression
  		* L14 Naïve Bayes and Text Data
- 			* L15 Natural Language Processing
+ 		* L15 Natural Language Processing
 * Model Evaluation	
  * L09 Basic Model Evaluation	
  * L13 Advanced Model Evaluation	
