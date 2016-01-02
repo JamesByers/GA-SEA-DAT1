@@ -587,7 +587,7 @@ Tuesday | Thursday
 * Evaluating datasets with attributes and methods	
  * [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)	
   * Exercise with dataframe attributes and methods: ([code](code/04_pandas.py))
-   * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
+	  * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
 * Visualization	
  * [L05 Visualization](#class-5-visualization)	
 	 * Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
@@ -601,7 +601,7 @@ Tuesday | Thursday
  		* [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)	
  		* [L12 Logistic Regression](#class-12-logistic-regression)
  		* [L14 Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data)
- 		* [L15  Natural Language Processing](#class-15-natural-language-processing)
+ 		* [L15 Natural Language Processing](#class-15-natural-language-processing)
 * Model Evaluation	
  * [L09 Basic Model Evaluation](#class-9-basic-model-evaluation)	
  * [L13 Advanced Model Evaluation](#class-13-advanced-model-evaluation)	
