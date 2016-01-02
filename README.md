@@ -581,7 +581,7 @@ Tuesday | Thursday
 * Intro 	
  * [L01 Introduction to Data Science](#class-1-introduction-to-data-science)	
  * [L02 Command Line, Version Control](#class-2-command-line-and-version-control)	
-* Aquiring and preparing data	
+* Acquiring and preparing data	
  * [L03 Reading and preparing data](#class-3-reading-and-preparing-data)	
  * [L07 Fetching Data](#class-7-fetching-data)	
 * Evaluating datasets with attributes and methods	
