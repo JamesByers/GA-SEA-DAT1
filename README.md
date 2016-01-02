@@ -22,7 +22,6 @@ Tuesday | Thursday
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 **2016** |
 1/5: L17 Course Review | 1/7:[ L18 Regularization and<br>Clustering, **Peer Review Due**](#class-18-regularization-and-clustering) 
-1/7: L19 Ensembling
 1/12: L19 Ensembling **Peer Review Due** | 1/14: L20 Decision Trees 
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
 &nbsp;
