@@ -591,9 +591,9 @@ Tuesday | Thursday
 * Visualization	
  * [L05 Visualization](#class-5-visualization)	
 	 * Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
-* [L06 Machine Learning](#class-6-machine-learning)	
- * Supervised or Unsupervised
- * Continuous or Categorical
+* Machine Learning
+	* [L06 Machine Learning](#class-6-machine-learning)	
+ 	* Supervised or unsupervised, continuous or categorical
 * Predictive models
 	* Supervised - estimate continuous values
 		* [L10 Linear Regression](#class-10-linear-regression)
