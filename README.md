@@ -579,32 +579,32 @@ Tuesday | Thursday
 
 ### Class 17: Review and refresh
 * Intro 	
- * L01 Introduction to Data Science	
- * L02 Command Line, Version Control	
+ * [L01 Introduction to Data Science](#class-1-introduction-to-data-science)	
+ * [L02 Command Line, Version Control](#class-2-command-line-and-version-control)	
 * Aquiring and preparing data	
- * L03 Reading and Preparing Data	
- * L07 Fetching Data	
+ * [L03 Reading and preparing data](#class-3-reading-and-preparing-data)	
+ * [L07 Fetching Data](#class-7-fetching-data)	
 * Evaluating datasets with attributes and methods	
- * L04 Exploratory Data Analysis	
+ * [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)	
   * Exercise with dataframe attributes and methods: ([code](code/04_pandas.py))
    * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
 * Visualization	
- * L05 Visualization	
+ * [L05 Visualization](#class-5-visualization)	
 	 * Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
-* L06 Machine Learning	
+* [L06 Machine Learning](#class-6-machine-learning)	
  * Supervised or Unsupervised
  * Continuous or Categorical
 * Predictive models
 	* Supervised - estimate continuous values
-		* L10 Linear Regression
+		* [L10 Linear Regression](#class-10-linear-regression)
 	* Supervised Classifiers - predict label
- 		* L08 K-Nearest Neighbors	
- 		* L12 Logistic Regression
- 		* L14 Naïve Bayes and Text Data
- 		* L15 Natural Language Processing
+ 		* [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)	
+ 		* [L12 Logistic Regression](#class-12-logistic-regression)
+ 		* [L14 Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data)
+ 		* [L15  Natural Language Processing](#class-15-natural-language-processing)
 * Model Evaluation	
- * L09 Basic Model Evaluation	
- * L13 Advanced Model Evaluation	
+ * [L09 Basic Model Evaluation](#class-9-basic-model-evaluation)	
+ * [L13 Advanced Model Evaluation](#class-13-advanced-model-evaluation)	
 
 -----
 
