@@ -595,9 +595,9 @@ Tuesday | Thursday
 	* [L06 Machine Learning](#class-6-machine-learning)	
  		* Supervised or unsupervised, continuous or categorical
 * Predictive models
-	* Supervised - estimate continuous values
+	* Supervised - predict continuous values
 		* [L10 Linear Regression](#class-10-linear-regression)
-	* Supervised Classifiers - predict label
+	* Supervised Classifiers - predict a label
  		* [L08 K-Nearest Neighbors](#class-8-k-nearest-neighbors)	
  		* [L12 Logistic Regression](#class-12-logistic-regression)
  		* [L14 Naive Bayes and Text Data](#class-14-naive-bayes-and-text-data)
