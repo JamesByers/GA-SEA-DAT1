@@ -591,17 +591,17 @@ Tuesday | Thursday
 * Visualization	
  * L05 Visualization	
 	 * Visualization with Pandas and Matplotlib [(code)](code/05_pandas_visualization_nb.py)
-	 * Part 2 of Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))
 * L06 Machine Learning	
  * Supervised or Unsupervised
  * Continuous or Categorical
-*Predictive models	
- * L08 K-Nearest Neighbors	
- * L10 Linear Regression	
- * L12 Logistic Regression	
- * L14 Naïve Bayes and Text Data	
- * L15 Natural Language Processing	
- * L16 Neural Networks and SVC	
+* Predictive models
+	* Supervised - estimate continuous values
+		* L10 Linear Regression
+	* Supervised Classifiers - predict label
+ 		* L08 K-Nearest Neighbors	
+ 		* L12 Logistic Regression
+ 		* L14 Naïve Bayes and Text Data
+ 			* L15 Natural Language Processing
 * Model Evaluation	
  * L09 Basic Model Evaluation	
  * L13 Advanced Model Evaluation	
