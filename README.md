@@ -592,6 +592,7 @@ Tuesday | Thursday
  * [L05 Visualization](#class-5-visualization)	
 	 * Visualization with Pandas and Matplotlib [(notebook)](notebooks/05_pandas_visualization.ipynb)
 * Machine Learning
+	* Supervised or unsupervised, continuous or categorical [(slides)](slides/06_machine_learning.pdf)
 	* [L06 Machine Learning](#class-6-machine-learning)	
  		* Supervised or unsupervised, continuous or categorical
 * Predictive models
