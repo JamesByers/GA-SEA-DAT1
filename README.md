@@ -594,7 +594,6 @@ Tuesday | Thursday
 * Machine Learning
 	* Supervised or unsupervised, continuous or categorical [(slides)](slides/06_machine_learning.pdf)
 	* [L06 Machine Learning](#class-6-machine-learning)	
- 		* Supervised or unsupervised, continuous or categorical
 * Predictive models
 	* Supervised - predict continuous values
 		* [L10 Linear Regression](#class-10-linear-regression)
