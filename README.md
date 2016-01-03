@@ -591,9 +591,9 @@ Tuesday | Thursday
 	  * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
 * Visualization	
  * [L05 Visualization](#class-5-visualization)	
-	 * Visualization with Pandas and Matplotlib [(notebook)](notebooks/05_pandas_visualization.ipynb)
+	 * Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))
 * Machine Learning
-	* Supervised or unsupervised, continuous or categorical [(slides)](slides/06_machine_learning.pdf)
+	* Supervised or unsupervised, continuous or categorical ([slides](slides/06_machine_learning.pdf))
 	* [L06 Machine Learning](#class-6-machine-learning)	
 * Predictive models
 	* Supervised - predict continuous values
