@@ -580,7 +580,7 @@ Tuesday | Thursday
 ### Class 17: Review and refresh
 * Data science intro 	
  * [L01 Introduction to Data Science](#class-1-introduction-to-data-science)
- 	* Data Science workflow [slides](slides/01_data_science_intro.pdf)
+ 	* Data Science workflow ([slides](slides/01_data_science_intro.pdf))
  * [L02 Command Line, Version Control](#class-2-command-line-and-version-control)	
 * Acquiring and preparing data	
  * [L03 Reading and preparing data](#class-3-reading-and-preparing-data)	
