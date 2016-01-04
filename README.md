@@ -580,20 +580,20 @@ Tuesday | Thursday
 ### Class 17: Review and refresh
 * Data science intro 	
  * [L01 Introduction to Data Science](#class-1-introduction-to-data-science)
- 	* ** Data Science workflow ** ([slides](slides/01_data_science_intro.pdf))
+ 	* **Data Science workflow** ([slides](slides/01_data_science_intro.pdf))
  * [L02 Command Line, Version Control](#class-2-command-line-and-version-control)	
 * Acquiring and preparing data	
  * [L03 Reading and preparing data](#class-3-reading-and-preparing-data)	
  * [L07 Fetching Data](#class-7-fetching-data)	
 * Evaluating datasets with attributes and methods	
  * [L04 Exploratory Data Analysis](#class-4-exploratory-data-analysis)	
-  * ** Exercise with dataframe attributes and methods: ** ([code](code/04_pandas.py))
+  * **Exercise with dataframe attributes and methods:** ([code](code/04_pandas.py))
 	  * MovieLens 100k movie ratings ([data](data/u.user), [data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt), [website](http://grouplens.org/datasets/movielens/))
 * Visualization	
  * [L05 Visualization](#class-5-visualization)	
-	 * ** Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb)) **
+	 * **Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))**
 * Machine Learning
-	* ** Supervised or unsupervised, continuous or categorical ([slides](slides/06_machine_learning.pdf)) **
+	* **Supervised or unsupervised, continuous or categorical ([slides](slides/06_machine_learning.pdf))**
 	* [L06 Machine Learning](#class-6-machine-learning)	
 * Predictive models
 	* Supervised - predict continuous values
