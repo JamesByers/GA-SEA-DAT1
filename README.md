@@ -619,7 +619,7 @@ Tuesday | Thursday
     * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
 **Homework:**
-* Reread [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html). (The "answers" to the [guiding questions](homework/09_bias_variance.md) have been posted and may be helpful to you.)
+* Reread [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html). (The "answers" to the [guiding questions](homework/solutions/09_bias_variance.md) have been posted and may be helpful to you.)
 * **Optional:** Watch these two excellent (and related) videos from Caltech's Learning From Data course: [bias-variance tradeoff](http://work.caltech.edu/library/081.html) (15 minutes) and [regularization](http://work.caltech.edu/library/121.html) (8 minutes).
 
 **scikit-learn Resources:**
