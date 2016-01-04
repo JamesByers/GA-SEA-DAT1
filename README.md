@@ -596,6 +596,7 @@ Tuesday | Thursday
 	* **Supervised or unsupervised, continuous or categorical ([slides](slides/06_machine_learning.pdf))**
 	* [L06 Machine Learning](#class-6-machine-learning)	
 * Predictive models
+	* **Excercise: Choose appropriate estimators**
 	* Supervised - predict continuous values
 		* [L10 Linear Regression](#class-10-linear-regression)
 	* Supervised Classifiers - predict a label
