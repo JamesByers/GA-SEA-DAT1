@@ -68,32 +68,42 @@ EXERCISE ONE
 '''
 
 # read drinks.csv into a DataFrame called 'drinks'
-
+drinks = pd.read_table('drinks.csv', sep=',')
+drinks = pd.read_csv('drinks.csv')              # second solution, assumes separator is comma
 
 # print the head and the tail
-
+drinks.head()
+drinks.tail()
 
 # examine the default index, data types, and shape
-
+drinks.index
+drinks.dtypes
+drinks.shape
 
 # print the 'beer_servings' Series
-
+drinks['beer_servings']
+drinks.beer_servings
 
 # calculate the mean 'beer_servings' for the entire dataset
-
+drinks.describe()                   # summarize all numeric columns
+drinks.beer_servings.describe()     # summarize only the 'beer_servings' Series
+drinks.beer_servings.mean()         # only calculate the mean
 
 # count the number of occurrences of each 'continent' value and see if it looks correct
-
+drinks.continent.value_counts()
 
 # BONUS: display only the number of rows of the 'users' DataFrame
-
+users.shape[0]
 
 
 # BONUS: display the 3 most frequent occupations in 'users'
-
+users.occupation.value_counts().head(3)
+users.occupation.value_counts()[:3]
 
 # BONUS: create the 'users' DataFrame from the u.user_original file (which lacks a header row)
 # Hint: read the pandas.read_table documentation
+user_cols = ['user_id', 'age', 'gender', 'occupation', 'zip_code']
+users = pd.read_table('u.user_original', sep='|', header=None, names=user_cols, index_col='user_id')
 
 
 '''
