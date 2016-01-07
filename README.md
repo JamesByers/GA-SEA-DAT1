@@ -614,7 +614,7 @@ Tuesday | Thursday
 * Advanced scikit-learn ([notebook](notebooks/19_advanced_sklearn.ipynb))
     * [StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): standardizing features
     * [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html): chaining steps
-* Clustering ([slides](slides/19_clustering.pdf), [notebook](notebooks/19_clustering.ipynb)), [visualization](https://joyofdata.shinyapps.io/hclust-shiny/))
+* Clustering ([slides](slides/19_clustering.pdf), [visualization](https://joyofdata.shinyapps.io/hclust-shiny/), [notebook](notebooks/19_clustering.ipynb))
     * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [visualization 1](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/), [visualization 2](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
     * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
