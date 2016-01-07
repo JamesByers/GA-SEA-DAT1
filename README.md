@@ -612,6 +612,14 @@ Tuesday | Thursday
 -----
 
 ### Class 18: Regularization and Clustering
+**By the end of this lesson you will be able to:**
+
+* standardize features
+* Be able to cluster using K-means and DBSCAN
+* Be abke to compare "how good" the clustering models are
+
+**Topics/Highlights**
+
 * Advanced scikit-learn ([notebook](notebooks/19_advanced_sklearn.ipynb))
     * [StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): standardizing features
     * [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html): chaining steps
