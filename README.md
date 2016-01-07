@@ -616,6 +616,7 @@ Tuesday | Thursday
     * [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html): chaining steps
 * Clustering ([slides](slides/19_clustering.pdf), [notebook](notebooks/19_clustering.ipynb))
     * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [visualization 1](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/), [visualization 2](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+    	* [My clustering of colors in an image.  Used a loop to generate clusters of 1 to 255 clusters. Made into an animated gif](https://github.com/JamesByers/Cluster-analysis-of-image-RGB-colors/blob/master/Output%20Newport_seafood%20image%20and%20Animated%20GIF/Newport_seafood_k_means%2B%2B_cluster_animated.gif)
     * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
 **Homework:**
