@@ -614,9 +614,9 @@ Tuesday | Thursday
 ### Class 18: Regularization and Clustering
 **By the end of this lesson you will be able to:**
 
-* standardize features
-* Be able to cluster using K-means and DBSCAN
-* Be abke to compare "how good" the clustering models are
+* Standardize features
+* Sluster using K-means and DBSCAN
+* Compare "how good" the clustering models are
 
 **Topics/Highlights**
 
