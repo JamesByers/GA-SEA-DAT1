@@ -653,6 +653,7 @@ Tuesday | Thursday
 -----
 
 ### Class 19: Decision Trees
+* Finish DBSCAN clustering lesson ([slides](slides/19_clustering.pdf), [notebook](notebooks/19_clustering.ipynb))
 * Decision trees ([notebook](notebooks/17_decision_trees.ipynb))
 * Exercise with Capital Bikeshare data ([notebook](notebooks/17_bikeshare_exercise.ipynb), [data](data/bikeshare.csv), [data dictionary](https://www.kaggle.com/c/bike-sharing-demand/data))
 
