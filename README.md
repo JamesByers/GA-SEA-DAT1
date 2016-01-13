@@ -615,7 +615,7 @@ Tuesday | Thursday
 **By the end of this lesson you will be able to:**
 
 * Standardize features
-* Sluster using K-means and DBSCAN
+* Cluster using K-means and DBSCAN
 * Compare "how good" the clustering models are
 
 **Topics/Highlights**
@@ -653,6 +653,13 @@ Tuesday | Thursday
 -----
 
 ### Class 19: Decision Trees
+**By the end of this lesson you will be able to:**
+
+* Create a Regression tree
+* Graph and interpret the decision tree
+
+**Topics/Highlights**
+
 * Finish DBSCAN clustering lesson ([slides](slides/19_clustering.pdf), [notebook](notebooks/19_clustering.ipynb))
 * Decision trees ([notebook](notebooks/17_decision_trees.ipynb))
 * 	Part 1: Regression trees
