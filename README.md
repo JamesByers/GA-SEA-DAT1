@@ -680,7 +680,7 @@ Tuesday | Thursday
 
 ### Class 20: Ensembling, Bagging and Random Forests
 * Finish decision trees lesson ([notebook](notebooks/17_decision_trees.ipynb))
-* Ensembling ([notebook](notebooks/18_ensembling.ipynb))
+* Ensembling, Bagging and Random Forests ([notebook](notebooks/18_ensembling.ipynb))
     * [Major League Baseball player data](data/hitters.csv) from 1986-87
     * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (page 7)
 
