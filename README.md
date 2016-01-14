@@ -22,7 +22,7 @@ Tuesday | Thursday
 12/29: (Holiday/ No class) | 12/31: (Holiday/ No class)
 **2016** |
 1/5: [L17 Review and refresh](#class-17-review-and-refresh) | 1/7:[ L18 Regularization and<br>Clustering](#class-18-regularization-and-clustering) 
-1/12: [L19 Decision Trees](#class-19-decision-trees), **Peer Review Due** | 1/14: [L20 Ensembling](#class-20-ensembling)
+1/12: [L19 Decision Trees](#class-19-decision-trees), **Peer Review Due** | 1/14: [L20 Ensembling, Bagging and Random Forests](#class-20-ensembling)
 1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
 &nbsp;
 ## Submission Forms
@@ -678,7 +678,7 @@ Tuesday | Thursday
 
 -----
 
-### Class 20: Ensembling
+### Class 20: Ensembling, Bagging and Random Forests
 * Finish decision trees lesson ([notebook](notebooks/17_decision_trees.ipynb))
 * Ensembling ([notebook](notebooks/18_ensembling.ipynb))
     * [Major League Baseball player data](data/hitters.csv) from 1986-87
