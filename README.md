@@ -682,7 +682,7 @@ Tuesday | Thursday
 * Finish decision trees lesson ([notebook](notebooks/17_decision_trees.ipynb))
 * Ensembling, Bagging and Random Forests ([notebook](notebooks/18_ensembling.ipynb))
     * [Major League Baseball player data](data/hitters.csv) from 1986-87
-    * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (page 7)
+    * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (see page 7)
 
 **Resources:**
 * scikit-learn's documentation on [ensemble methods](http://scikit-learn.org/stable/modules/ensemble.html) covers both "averaging methods" (such as bagging and Random Forests) as well as "boosting methods" (such as AdaBoost and Gradient Tree Boosting).
