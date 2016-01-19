@@ -724,7 +724,7 @@ Tuesday | Thursday
 * Next steps in your journey
 	* [Exercise: your objectives and next steps](https://docs.google.com/spreadsheets/d/13z-eUjMtsSyO6B51iVzoEwmfpO-IhymoYDIVvgTious/edit?usp=sharing)
 
-** Additional models and variants (in blue) **
+**Additional models and variants (in blue)**
 
 * Classifiers
 	* Naïve Bayes
