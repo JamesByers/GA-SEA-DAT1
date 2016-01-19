@@ -747,7 +747,7 @@ Tuesday | Thursday
 	* [SVR (choose from several kernels)](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html)
 	* [SDG regression](http://scikit-learn.org/stable/modules/sgd.html)
 	* Ensembling
-		* [Random Forest regressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+		* [Random Forest regression](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 * Clustering
 	* K-means
 	* DBSCAN
