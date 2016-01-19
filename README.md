@@ -679,6 +679,7 @@ Tuesday | Thursday
 -----
 
 ### Class 20: Ensembling, Bagging and Random Forests
+
 * Finish decision trees lesson ([notebook](notebooks/17_decision_trees.ipynb))
 * Ensembling, Bagging and Random Forests ([notebook](notebooks/18_ensembling.ipynb))
     * [Major League Baseball player data](data/hitters.csv) from 1986-87
@@ -698,12 +699,28 @@ Tuesday | Thursday
 -----
 
 ### Class 21: Bonus Topics
-* Other models and variants - Exercise
+
+**Topics/Highlights**
+
+* Additional models and variants - Exercise
 * Trends
-	* Datastorage, Hadoop and MapReduce
-	* AWS, Azure, Google data science engine services
+	* Data storage, Hadoop and MapReduce
+		* SQL databases
+		* NoSQL databases [(vs. SQL)](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif) databases)](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif)
+		* Distributed files [(diagram)](https://www.google.com/search?q=hadoop+storage+impala+diagram&source=lnms&tbm=isch)]
+	* AWS, Azure, Google data and data science engine services
+		* SQL Databases in the cloud
+			* AWS Redshift, Oracle, SQL Server
+			* Azure SQL Server
+			* Google BigQuery
+		* NoSQL Databases
+			* AWS Mongo, DynamoDB
+			* Azure
+		* Data collection for IoT
+		* Data science engines
 * Exercise - takeaways
-* Where to go from here data scientists
-	* [Data science skill continuum](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M)
+* Where to go from here data scientists!
+	* [Data science skills hierarchy](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M)
 * Next steps in your journey
 	* [Exercise: your objectives and next steps](https://docs.google.com/spreadsheets/d/13z-eUjMtsSyO6B51iVzoEwmfpO-IhymoYDIVvgTious/edit?usp=sharing)
+
