@@ -737,7 +737,7 @@ Tuesday | Thursday
 	* Bagging
 	* Boosting
 		* [sklearn.ensemble.AdaBoostRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html)
-		* Beware, even one missclassified label in training data can result in poor prediction
+		* Beware, even one misclassified label in training data can result in poor prediction
 	* Random Forests
 * Regression
 	* Linear regression
