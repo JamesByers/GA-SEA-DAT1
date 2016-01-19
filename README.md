@@ -706,7 +706,7 @@ Tuesday | Thursday
 * Trends
 	* Data storage, Hadoop and MapReduce
 		* SQL databases
-		* NoSQL databases vs. SQL ([comparison](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif)) databases)](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif)
+		* NoSQL vs. SQL databases ([comparison](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif))
 		* Distributed files [(diagram)](https://www.google.com/search?q=hadoop+storage+impala+diagram&source=lnms&tbm=isch)]
 	* AWS, Azure and Google,  data and data science engine services
 		* SQL Databases in the cloud
