@@ -718,7 +718,7 @@ Tuesday | Thursday
 			* Azure
 		* Data collection for IoT
 		* Data science engines
-* Exercise - takeaways
+* Exercise - top takeaways and top surprises
 * Where to go from here data scientists!
 	* [Data science skills hierarchy](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M)
 * Next steps in your journey
