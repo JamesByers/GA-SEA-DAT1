@@ -755,4 +755,4 @@ Ensembling
 * Clustering
 	* K-means
 	* DBSCAN
-	* 
+	* [Hierarchical clustering](https://joyofdata.shinyapps.io/hclust-shiny/)
