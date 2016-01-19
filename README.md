@@ -707,7 +707,7 @@ Tuesday | Thursday
 	* Data storage, Hadoop and MapReduce
 		* SQL databases
 		* NoSQL vs. SQL databases ([comparison](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif))
-		* Distributed files [(diagram)](https://www.google.com/search?q=hadoop+storage+impala+diagram&source=lnms&tbm=isch)]
+		* Distributed files [(diagram)](https://www.google.com/search?q=hadoop+storage+impala+diagram&source=lnms&tbm=isch)
 	* AWS, Azure and Google,  data and data science engine services
 		* SQL Databases in the cloud
 			* AWS Redshift, Oracle, SQL Server
@@ -746,8 +746,8 @@ Tuesday | Thursday
 	* [Linear regressor with polynomial preprocessing](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 	* [SVR (choose from several kernels)](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html)
 	* [SDG regression](http://scikit-learn.org/stable/modules/sgd.html)
-Ensembling
-	* [Random Forest regressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+	* Ensembling
+		* [Random Forest regressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 * Clustering
 	* K-means
 	* DBSCAN
