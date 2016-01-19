@@ -23,7 +23,7 @@ Tuesday | Thursday
 **2016** |
 1/5: [L17 Review and refresh](#class-17-review-and-refresh) | 1/7:[ L18 Regularization and<br>Clustering](#class-18-regularization-and-clustering) 
 1/12: [L19 Decision Trees](#class-19-decision-trees), **Peer Review Due** | 1/14: [L20 Ensembling, Bagging and Random Forests](#class-20-ensembling)
-1/19: L21 Bonus Topics and<br>**Final Project Presentation** | 1/21: L22 **Final Project Presentation**
+1/19: [L21 Bonus Topics](#class-21-bonus-topics) | 1/21: L22 **Final Project Presentations**
 &nbsp;
 ## Submission Forms
 ### [      Exit ticket form] (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
@@ -695,4 +695,15 @@ Tuesday | Thursday
 * [Unboxing the Random Forest Classifier](http://nerds.airbnb.com/unboxing-the-random-forest-classifier/) describes a way to interpret the inner workings of Random Forests beyond just feature importances.
 * [Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v3.pdf) is an in-depth academic analysis of Random Forests, including details of its implementation in scikit-learn.
 
+-----
 
+### Class 21: Bonus Topics
+* Other models and variants - Exercise
+* Trends
+	* Datastorage, Hadoop and MapReduce
+	* AWS, Azure, Google data science engine services
+* Exercise - takeaways
+* Where to go from here data scientists
+	* [Data science skill continuum](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M)
+* Next steps in your journey
+	* [Exercise: your objectives and next steps](https://docs.google.com/spreadsheets/d/13z-eUjMtsSyO6B51iVzoEwmfpO-IhymoYDIVvgTious/edit?usp=sharing)
