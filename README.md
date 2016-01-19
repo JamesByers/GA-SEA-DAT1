@@ -724,3 +724,35 @@ Tuesday | Thursday
 * Next steps in your journey
 	* [Exercise: your objectives and next steps](https://docs.google.com/spreadsheets/d/13z-eUjMtsSyO6B51iVzoEwmfpO-IhymoYDIVvgTious/edit?usp=sharing)
 
+** Additional models and variants (in blue) **
+
+* Classifiers
+	* Naïve Bayes
+	* KNN
+	* SVC
+	* [SDG](http://scikit-learn.org/stable/modules/sgd.html)
+	* Decision Trees
+	* Neural Networks
+
+* Ensemble methods [(scikit-learn pqge)](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
+	* Bagging
+	* Boosting
+		* [sklearn.ensemble.AdaBoostRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html)
+		* Beware, even one missclassified label in training data can result in poor prediction
+	* Random Forests
+
+* Regression
+	* Linear regression
+	* [Ridge regression](http://scikit-learn.org/stable/modules/linear_model.html) 
+	* [Lasso](http://scikit-learn.org/stable/modules/linear_model.html)
+	* [Linear regressor with polynomial preprocessing](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
+	* [SVR (choose from several kernels)](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html)
+	* [SDG regression](http://scikit-learn.org/stable/modules/sgd.html)
+
+Ensembling
+	* [Random Forest regressor]((http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+
+* Clustering
+	* K-means
+	* DBSCAN
+	* 
