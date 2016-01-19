@@ -708,7 +708,7 @@ Tuesday | Thursday
 		* SQL databases
 		* NoSQL databases [(vs. SQL)](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif) databases)](http://core0.staticworld.net/images/article/2014/10/sql-nosql-b-100527236-large.idge.gif)
 		* Distributed files [(diagram)](https://www.google.com/search?q=hadoop+storage+impala+diagram&source=lnms&tbm=isch)]
-	* AWS, Azure, Google data and data science engine services
+	* AWS, Azure and Google,  data and data science engine services
 		* SQL Databases in the cloud
 			* AWS Redshift, Oracle, SQL Server
 			* Azure SQL Server
