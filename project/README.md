@@ -118,7 +118,7 @@ Your project repository on GitHub should contain the following:
 
 * Please submit a link to your repository (with slides) by 6pm on the day you are presenting.
 * Regardless of which day you are presenting, your repository should also contain the other required project components by 6pm on the last day of class.
-* You will have exactly 12 minutes to present, followed by 2 minutes of questions. Practice your presentation and time yourself!
+* You will have exactly 20 minutes to present, followed by 10 minutes of questions. Practice your presentation and time yourself!
 * Your presentation should start with a recap of the key information from the previous presentation (including your project question), but you should spend the majority of your presentation discussing what has happened since then.
 * If your presentation is too long, focus it around the most interesting aspects of your project, rather than trying to include every last detail.
 * Tell your story in an engaging fashion.
