@@ -2,35 +2,35 @@
 
 
 **matty325**
-Takeaways:
+*Takeaways:
  * Competence at gathering data
  * tools to survey data
  * familiarity with a range of modeling methods
  * how to apply and evaluate results
  * discipline to think about how to iteratively solve problems at scale
  * Everything comes down to bias-variance tradeoff
-Tidbits:
+*Tidbits:
  * Lots of code examples
  * Now I know where a lot of good online resources
  * It was good to learn how to use python notebooks
  * also good to familiarize with github
  * command line refresher was also helpful
-Surprises: There are a goddamn lot of different ways to look at data, but no matter how fancy, everything comes down to maximize gain/minimize loss
+*Surprises: There are a goddamn lot of different ways to look at data, but no matter how fancy, everything comes down to maximize gain/minimize loss
 
 **rhosogi**
-Top Takeaways:
+*Top Takeaways:
  * Core use of pandas in Python; this was something I actually tried to learn before classes and it wasn't as instinctual
  * Using estimators 
  * Reviewing different types of predictors based on datasets
  * Clustering was pretty awesome
  * Basic understanding of a real coding language
-Tidbits:
+*Tidbits:
  * StackOverflow is amazing
  * The devil is in the detail (syntax, random Internet findings)
  * Never feel like an idiot for taking time to prep your data
  * Clustering is fun in theory and practice
  * Kaggle seems like it could become an addiction
-Surprises:
+*Surprises:
  * Predictive modeling (surprising, not really a surprise)
  * Python was NOT as hard as everyone says it was
  * Any and all industry knowledge dropped in class
