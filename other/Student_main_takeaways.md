@@ -2,31 +2,42 @@
 
 
 **matty325**
-  * Takeaways: 1) Competence at gathering data 2) tools to survey data 3) familiarity with a range of modeling methods, how to apply and evaluate results 4) discipline to think about how to iteratively solve problems at scale 5) Everything comes down to bias-variance tradeoff
-  * Tidbits: 1) Lots of code examples 2) Now I know where a lot of good online resources are 3) It was good to learn how to use python notebooks 4) also good to familiarize with github 5) command line refresher was also helpful
-  * Surprises: There are a goddamn lot of different ways to look at data, but no matter how fancy, everything comes down to maximize gain/minimize loss
+Takeaways:
+ * Competence at gathering data
+ * tools to survey data
+ * familiarity with a range of modeling methods
+ * how to apply and evaluate results
+ * discipline to think about how to iteratively solve problems at scale
+ * Everything comes down to bias-variance tradeoff
+Tidbits:
+ * Lots of code examples
+ * Now I know where a lot of good online resources
+ * It was good to learn how to use python notebooks
+ * also good to familiarize with github
+ * command line refresher was also helpful
+Surprises: There are a goddamn lot of different ways to look at data, but no matter how fancy, everything comes down to maximize gain/minimize loss
 
 **rhosogi**
-5 Top Takeaways:
-* Core use of pandas in Python; this was something I actually tried to learn before classes and it wasn't as instinctual
-* Using estimators 
-* Reviewing different types of predictors based on datasets
-* Clustering was pretty awesome
-* Basic understanding of a real coding language
-5 Tidbits:
-* StackOverflow is amazing
-* The devil is in the detail (syntax, random Internet findings)
-* Never feel like an idiot for taking time to prep your data
-* Clustering is fun in theory and practice
-* Kaggle seems like it could become an addiction
-5 Surprises:
-* Predictive modeling (surprising, not really a surprise)
-* Python was NOT as hard as everyone says it was
-* Any and all industry knowledge dropped in class
-* Data science is surprisingly vast as an industry but this is mostly awesome
-* You'd be surprised by how much stats you remember after 10 years
+Top Takeaways:
+ * Core use of pandas in Python; this was something I actually tried to learn before classes and it wasn't as instinctual
+ * Using estimators 
+ * Reviewing different types of predictors based on datasets
+ * Clustering was pretty awesome
+ * Basic understanding of a real coding language
+Tidbits:
+ * StackOverflow is amazing
+ * The devil is in the detail (syntax, random Internet findings)
+ * Never feel like an idiot for taking time to prep your data
+ * Clustering is fun in theory and practice
+ * Kaggle seems like it could become an addiction
+Surprises:
+ * Predictive modeling (surprising, not really a surprise)
+ * Python was NOT as hard as everyone says it was
+ * Any and all industry knowledge dropped in class
+ * Data science is surprisingly vast as an industry but this is mostly awesome
+ * You'd be surprised by how much stats you remember after 10 years
 
-apm
+**apm**
 Top Takeaways:
   -Cross validation.
   -NLP -> TF-IDF, stemming
