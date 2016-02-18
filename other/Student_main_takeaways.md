@@ -1,5 +1,4 @@
-## The main takeaways by students
-
+## The main takeaways as expressed by students the last day of class
 
 **matty325**
 * Takeaways:
@@ -38,22 +37,27 @@
  * You'd be surprised by how much stats you remember after 10 years
 
 **apm**
-Top Takeaways:
-  -Cross validation.
-  -NLP -> TF-IDF, stemming
-  -Ensembling -> bagging, boosting
-Tibits (things I want to do more..)
-  -Visualize performance
-  -Piping
-Surprises
--How ‘simple’ many models are..
--Neural networks are simple to construct, but hard to understand.
+* Top Takeaways:
+  * Cross validation.
+  * NLP -> TF-IDF, stemming
+  * Ensembling -> bagging, boosting
+* Tibits (things I want to do more..)
+  * Visualize performance
+  * Piping
+* Surprises
+  * How ‘simple’ many models are..
+  * Neural networks are simple to construct, but hard to understand.
 
 **bruceakerseattle**
-  Takeaways-JSON, Web API, bias vs variance, cross validation
-  Tidbits-Slack
-  Surprises- SciKitLearn has everything
-
+* Takeaways
+  * JSON
+  * Web API
+  * bias vs variance
+  * cross validation
+* Tidbits
+  * Slack
+* Surprises
+  * SciKitLearn has everything
 
 **ftseng**
 * Top takeaways:
