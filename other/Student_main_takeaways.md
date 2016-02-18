@@ -1,15 +1,12 @@
 ## The main takeaways by students
 
 
-matty325
+**matty325**
   * Takeaways: 1) Competence at gathering data 2) tools to survey data 3) familiarity with a range of modeling methods, how to apply and evaluate results 4) discipline to think about how to iteratively solve problems at scale 5) Everything comes down to bias-variance tradeoff
   * Tidbits: 1) Lots of code examples 2) Now I know where a lot of good online resources are 3) It was good to learn how to use python notebooks 4) also good to familiarize with github 5) command line refresher was also helpful
   * Surprises: There are a goddamn lot of different ways to look at data, but no matter how fancy, everything comes down to maximize gain/minimize loss
 
-rhosogi
-added an HTML snippet 
-
-rhosogi
+**rhosogi**
 5 Top Takeaways:
 * Core use of pandas in Python; this was something I actually tried to learn before classes and it wasn't as instinctual
 * Using estimators 
@@ -41,13 +38,13 @@ Surprises
 -How ‘simple’ many models are..
 -Neural networks are simple to construct, but hard to understand.
 
-bruceakerseattle
+**bruceakerseattle**
   Takeaways-JSON, Web API, bias vs variance, cross validation
   Tidbits-Slack
   Surprises- SciKitLearn has everything
 
 
-ftseng
+**ftseng**
 Top takeaways:
   * For machine learning, fewer features may be better (especially when you have thousands)
   * Syntax is not necessarily consistent across python tools like pandas or matplotlib, so there’s nothing wrong with looking up commands and cutting and pasting.
@@ -57,7 +54,7 @@ Top surprises:
   * the accuracy at which the kaggle participants predict is astounding
   * per Bruce's project, did not know there was a way one could code and reach images
 
-katylinn
+**katylinn**
 Top takeaways:
   * Copy/Pasting (once you understand) is the only practical way to go, so keep a “cookbook” going
   * Models aren’t “good” or “bad” till you’ve tried tuning
