@@ -1,11 +1,8 @@
-### SEA-DAT1 course repository
-
-Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
-(10/27/15 - 1/21/16)
-
-**Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
-
-**Classes:** 6:30pm - 9:30pm
+##![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SEA-DAT1 course repository
+###General Assembly Data Science course
+**Location:** Seattle, WA
+<br><b>Class times:</b> Classes: 6:30pm - 9:30pm</br>
+<b/>Instructor:</b> <a href="https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI">Jim Byers</a>
 
 Tuesday | Thursday
 --- | ---
