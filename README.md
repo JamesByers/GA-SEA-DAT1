@@ -1,11 +1,8 @@
-### SEA-DAT1 course repository
-
-Materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/seattle/) in Seattle, WA
-(10/27/15 - 1/21/16)
-
-**Instructor:** [Jim Byers](https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI)
-
-**Classes:** 6:30pm - 9:30pm
+##SEA-DAT1 course repository
+###General Assembly Data Science course
+**Location:** Seattle, WA
+<br><b>Class times:</b> Classes: 6:30pm - 9:30pm</br>
+<b/>Instructor:</b> <a href="https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI">Jim Byers</a>
 
 Tuesday | Thursday
 --- | ---
@@ -733,20 +730,21 @@ Tuesday | Thursday
 	* [SDG](http://scikit-learn.org/stable/modules/sgd.html)
 	* Decision Trees
 	* Neural Networks
-* Ensemble methods [(scikit-learn pqge)](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
-	* Bagging
-	* Boosting
-		* [sklearn.ensemble.AdaBoostRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html)
-		* Beware, even one misclassified label in training data can result in poor prediction
-	* Random Forests
+	* Ensemble methods [(scikit-learn pqge)](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
+		* Bagging
+		* Boosting
+			* [sklearn.ensemble.AdaBoostRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html)
+			* Beware, even one misclassified label in training data can result in poor prediction
+		* Random Forests
 * Regression
 	* Linear regression
 	* [Ridge regression](http://scikit-learn.org/stable/modules/linear_model.html) 
 	* [Lasso](http://scikit-learn.org/stable/modules/linear_model.html)
+	* Logistic Regression
 	* [Linear regressor with polynomial preprocessing](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 	* [SVR (choose from several kernels)](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html)
 	* [SDG regression](http://scikit-learn.org/stable/modules/sgd.html)
-	* Ensembling
+	* Ensemble methods
 		* [Random Forest regression](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 * Clustering
 	* K-means
