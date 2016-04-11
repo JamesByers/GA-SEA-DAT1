@@ -128,7 +128,7 @@ f.close()
 # get the title
 b.find_all(name='span', attrs={'class':'itemprop', 'itemprop':'name'})    # too many results
 b.find(name='span', attrs={'class':'itemprop', 'itemprop':'name'}).text   # just get the first
-b.find(name='h1').find(name='span', attrs={'class':'itemprop', 'itemprop':'name'}).text   # limit the search
+b.find(name='h1').find(name='span', attrs={'class':'id', 'id':'titleYear'}).text   # limit the search
 
 # get the star rating (as a float)
 float(b.find(name='span', attrs={'itemprop':'ratingValue'}).text)
